@@ -1,7 +1,7 @@
-# Pysics-Based Deep Learning
+# Physics-Based Deep Learning
 
 This repository collects links to works on _deep learning algorithms for physics
-problems_, with a paricular emphasis on _fluid flow_, i.e., Navier-Stokes related
+problems_, with a particular emphasis on _fluid flow_, i.e., Navier-Stokes related
 problems. It especially collects links to the works of the I15 lab at TUM, as
 well as miscellaneous works from other groups. This is by no means a complete
 list, so let us know if you come across additional papers in this area. We
