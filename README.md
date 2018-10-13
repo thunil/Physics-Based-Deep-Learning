@@ -33,25 +33,25 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
-Accelerating Eulerian Fluid Simulation With Convolutional Networks
+Accelerating Eulerian Fluid Simulation With Convolutional Networks , 
 Project+Code: <https://cims.nyu.edu/~schlacht/CNNFluids.htm>
 
-Reasoning About Liquids via Closed-Loop Simulation
+Reasoning About Liquids via Closed-Loop Simulation , 
 PDF: <https://arxiv.org/pdf/1703.01656>
 
-Deep Neural Networks for Data-Driven Turbulence Models
-PDF: <https://www.researchgate.net/profile/David_Flad/publication/325737916_Deep_Neural_Networks_for_Data-Driven_Turbulence_Models/links/5b2605650f7e9b0e374ce02a/Deep-Neural-Networks-for-Data-Driven-Turbulence-Models.pdf>
+Deep Neural Networks for Data-Driven Turbulence Models , 
+PDF: <https://export.arxiv.org/pdf/1806.04482>
 
-Application of Convolutional Neural Network to Predict Airfoil Lift Coefficient
+Application of Convolutional Neural Network to Predict Airfoil Lift Coefficient , 
 PDF: <https://arxiv.org/pdf/1712.10082>
 
-Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks
+Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks , 
 PDF: <https://arxiv.org/pdf/1705.09036>
 
-Prediction of laminar vortex shedding over a cylinder using deep learning
+Prediction of laminar vortex shedding over a cylinder using deep learning , 
 PDF: <https://arxiv.org/pdf/1712.07854>
 
-Prediction model of velocity field around circular cylinder over various Reynolds numbers by fusion convolutional neural networks based on pressure on the cylinder
+Prediction model of velocity field around circular cylinder over various Reynolds numbers by fusion convolutional neural networks based on pressure on the cylinder , 
 PDF: <https://doi.org/10.1063/1.5024595>
 
 ## Additional Links for General PDEs
@@ -74,13 +74,16 @@ DeepWarp: DNN-based Nonlinear Deformation
 PDF: <https://arxiv.org/pdf/1803.09109>
 
 Neural Material: Learning Elastic Constitutive Material and Damping Models from Sparse Data
-<https://arxiv.org/pdf/1808.04931>
+PDF: <https://arxiv.org/pdf/1808.04931>
+
+Fluid directed rigid body control using deep reinforcement learning
+Project: <http://gamma.cs.unc.edu/DRL_FluidRigid/>
 
 Unsupervised Intuitive Physics from Visual Observations
 PDF: <https://arxiv.org/pdf/1805.05086>
 
 Graph networks as learnable physics engines for inference and control
-<https://arxiv.org/pdf/1806.01242.pdf>
+PDF: <https://arxiv.org/pdf/1806.01242.pdf>
 
 Interaction Networks for Learning about Objects, Relations and Physics
 PDF: <http://papers.nips.cc/paper/6418-interaction-networks-for-learning-about-objects-relations-and-physics.pdf>
