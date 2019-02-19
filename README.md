@@ -68,7 +68,7 @@ Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equati
 PDF: <https://arxiv.org/pdf/1708.00588>
 
 PDE-Net: Learning PDEs from Data , 
-PDF: <https://arxiv.org/pdf/1710.09668.pdf>
+Project+Code: <https://github.com/ZichaoLong/PDE-Net>
 
 PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network ,
 PDF: <https://arxiv.org/pdf/1812.04426>
