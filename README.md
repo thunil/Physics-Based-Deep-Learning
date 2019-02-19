@@ -8,6 +8,8 @@ list, so let us know if you come across additional papers in this area. We
 intentionally also focus on works from the _deep learning_ field, not machine
 learning in general.
 
+![An example flow result from tempoGAN](resources/physics-based-deep-learning-teaser1.jpg)
+
 ## I15 Links
 
 tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow , 
@@ -19,7 +21,7 @@ Project+Code: <http://www.byungsoo.me/project/deep-fluids/>
 Latent-space Physics: Towards Learning the Temporal Evolution of Fluid Flow , 
 Project+Code: <https://ge.in.tum.de/publications/latent-space-physics/>
 
-Well, how accurate is it? A Study of Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations , 
+A Study of Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations , 
 Project+Code: <https://github.com/thunil/Deep-Flow-Prediction>
 
 Data-Driven Synthesis of Smoke Flows with CNN-based Feature Descriptors , 
@@ -62,8 +64,14 @@ PDF: <https://arxiv.org/pdf/1808.04930>
 Deep Learning the Physics of Transport Phenomena , 
 PDF: <https://arxiv.org/pdf/1709.02432>
 
+Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equations , 
+PDF: <https://arxiv.org/pdf/1708.00588>
+
 PDE-Net: Learning PDEs from Data , 
 PDF: <https://arxiv.org/pdf/1710.09668.pdf>
+
+PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network ,
+PDF: <https://arxiv.org/pdf/1812.04426>
 
 Learning Deep Neural Network Representations for Koopman Operators of Nonlinear Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/1708.06850>
