@@ -94,7 +94,10 @@ Graph networks as learnable physics engines for inference and control ,
 PDF: <https://arxiv.org/pdf/1806.01242.pdf>
 
 Interaction Networks for Learning about Objects, Relations and Physics , 
-PDF: <http://papers.nips.cc/paper/6418-interaction-networks-for-learning-about-objects-relations-and-physics.pdf>
+PDF: <https://arxiv.org/abs/1612.00222>
+
+Flexible Neural Representation for Physics Prediction ,
+Project+Code: <https://neuroailab.github.io/physics/>
 
 ## Generic Software (Not related to specific papers)
 
