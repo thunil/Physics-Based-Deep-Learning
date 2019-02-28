@@ -101,6 +101,6 @@ Project+Code: <https://neuroailab.github.io/physics/>
 
 ## Generic Software (Not related to specific papers)
 
-A general fluid simulation and deep learning framework , 
+Fluid simulations and deep learning framework from TUM I15, 
 Code: <http://mantaflow.com>
  
