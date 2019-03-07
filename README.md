@@ -87,6 +87,9 @@ PDF: <https://arxiv.org/pdf/1808.04931>
 Fluid directed rigid body control using deep reinforcement learning , 
 Project: <http://gamma.cs.unc.edu/DRL_FluidRigid/>
 
+DeepMimic, Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills , 
+PDF: <https://arxiv.org/pdf/1804.02717.pdf>
+
 Unsupervised Intuitive Physics from Visual Observations , 
 PDF: <https://arxiv.org/pdf/1805.05086>
 
