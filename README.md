@@ -1,35 +1,35 @@
 # Physics-Based Deep Learning
 
-The following collection of materials targets "Physics-Based Deep Learning"
+The following collection of materials targets _"Physics-Based Deep Learning"_
 (PBDL), i.e. the field of methods with combinations of physical modeling and
-deep learning (DL) techniques.  Here, DL will typically refer to methods based
-on artificial neural networks.  The general direction of PBDL represents a very
+deep learning (DL) techniques. Here, DL will typically refer to methods based
+on artificial neural networks. The general direction of PBDL represents a very
 active and quickly growing field of research. 
 
 ![An overview of categories of physics-based deep learning methods](resources/physics-based-deep-learning-overview.jpg)
 
 Within this area we can roughly distinguish the following five categories:
 
-- Physics-based design: incorporate domain knowledge about the
+- _Physics-based design_: incorporate domain knowledge about the
   system in the architecture of the learning process, e.g.,
   adapt the connectivity of a neural network such that it facilitates 
   certain solutions.
 
-- Physics-based constraints: guide and constrain the learning
+- _Physics-based constraints_: guide and constrain the learning
   process with physical models, e.g., in the simplest case
   by including additional terms in the loss function.
 
-- Combined methods: hybrid solvers that employ tradtitional
+- _Combined methods_: hybrid solvers that employ tradtitional
   numerical methods alongside deep-learning techniques to arrive
   simulations methods that are improved in terms of, e.g., 
   efficiency, accuracy, generalization etc.
 
-- Outer-loop optimizations:
+- _Outer-loop optimizations_:
   approaches that aim for higher level control or inverse
   problems, typically with an outer loop around a simulation.
   Here, fast and differentiable models exhibit particular promise.
 
-- Applications: there are also many methods that apply established DL
+- _Applications_: there are also many methods that apply established DL
   techniques to physical problems without really changing them. These
   works are nonetheless often highly interesting and much needed
   to establish methodologies of how DL can be best used for physical
@@ -141,8 +141,12 @@ PDF: <https://arxiv.org/abs/1612.00222>
 Flexible Neural Representation for Physics Prediction ,
 Project+Code: <https://neuroailab.github.io/physics/>
 
-## Generic Software (Not related to specific papers)
 
-Fluid simulations and deep learning framework from TUM I15, 
-Code: <http://mantaflow.com>
+# Concluding Remarks
+
+Physics-based deep learning is a very dynamic field. Please let us know if we've overlooked
+papers that you think should be incuded by sending a mail to _i15ge at cs.tum.de_.
+
+Also feel free to check out our homepage at <https://ge.in.tum.de/blog/>, 
+and our open source fluid simulation and deep learning framework _mantaflow_: <http://mantaflow.com>
  
