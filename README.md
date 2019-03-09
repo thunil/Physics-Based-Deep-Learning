@@ -1,5 +1,44 @@
 # Physics-Based Deep Learning
 
+The following collection of materials targets "Physics-Based Deep Learning"
+(PBDL), i.e. the field of methods with combinations of physical modeling and
+deep learning (DL) techniques.  Here, DL will typically refer to methods based
+on artificial neural networks.  The general direction of PBDL represents a very
+active and quickly growing field of research. 
+
+![An overview of categories of physics-based deep learning methods](resources/physics-based-deep-learning-overview.jpg)
+
+Within this area we can roughly distinguish the following five categories:
+
+- Physics-based design: incorporate domain knowledge about the
+  system in the architecture of the learning process, e.g.,
+  adapt the connectivity of a neural network such that it facilitates 
+  certain solutions.
+
+- Physics-based constraints: guide and constrain the learning
+  process with physical models, e.g., in the simplest case
+  by including additional terms in the loss function.
+
+- Combined methods: hybrid solvers that employ tradtitional
+  numerical methods alongside deep-learning techniques to arrive
+  simulations methods that are improved in terms of, e.g., 
+  efficiency, accuracy, generalization etc.
+
+- Outer-loop optimizations:
+  approaches that aim for higher level control or inverse
+  problems, typically with an outer loop around a simulation.
+  Here, fast and differentiable models exhibit particular promise.
+
+- Applications: there are also many methods that apply established DL
+  techniques to physical problems without really changing them. These
+  works are nonetheless often highly interesting and much needed
+  to establish methodologies of how DL can be best used for physical
+  problems.
+
+In practice, these categories only serve as a rough guide to the space of
+methods in the area of physics-based deep learning, and there are many works
+below that combine aspects from more than one of these classes.
+
 This repository collects links to works on _deep learning algorithms for physics
 problems_, with a particular emphasis on _fluid flow_, i.e., Navier-Stokes related
 problems. It especially collects links to the works of the I15 lab at TUM, as
