@@ -19,9 +19,9 @@ Within this area we can roughly distinguish the following five categories:
   process with physical models, e.g., in the simplest case
   by including additional terms in the loss function.
 
-- _Combined methods_: hybrid solvers that employ tradtitional
+- _Combined methods_: hybrid solvers that employ traditional
   numerical methods alongside deep-learning techniques to arrive
-  simulations methods that are improved in terms of, e.g., 
+  at simulations methods that are improved in terms of, e.g., 
   efficiency, accuracy, generalization etc.
 
 - _Outer-loop optimizations_:
@@ -145,7 +145,7 @@ Project+Code: <https://neuroailab.github.io/physics/>
 # Concluding Remarks
 
 Physics-based deep learning is a very dynamic field. Please let us know if we've overlooked
-papers that you think should be incuded by sending a mail to _i15ge at cs.tum.de_.
+papers that you think should be included by sending a mail to _i15ge at cs.tum.de_.
 
 Also feel free to check out our homepage at <https://ge.in.tum.de/blog/>, 
 and our open source fluid simulation and deep learning framework _mantaflow_: <http://mantaflow.com>
