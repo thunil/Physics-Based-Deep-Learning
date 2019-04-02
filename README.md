@@ -115,7 +115,7 @@ PDF: <https://arxiv.org/pdf/1812.04426>
 Learning Deep Neural Network Representations for Koopman Operators of Nonlinear Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/1708.06850>
 
-## Additional Links for Other Physics Problems
+## Additional Links for Other Physics Problems and Physics-related Problems
 
 DeepWarp: DNN-based Nonlinear Deformation , 
 PDF: <https://arxiv.org/pdf/1803.09109>
@@ -140,6 +140,10 @@ PDF: <https://arxiv.org/abs/1612.00222>
 
 Flexible Neural Representation for Physics Prediction ,
 Project+Code: <https://neuroailab.github.io/physics/>
+
+Robust Reference Frame Extraction from Unsteady 2D Vector Fields with Convolutional Neural Networks ,
+PDF: https://arxiv.org/pdf/1903.10255.pdf
+
 
 
 # Concluding Remarks
