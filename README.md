@@ -95,6 +95,10 @@ PDF: <https://arxiv.org/pdf/1712.07854>
 Prediction model of velocity field around circular cylinder over various Reynolds numbers by fusion convolutional neural networks based on pressure on the cylinder , 
 PDF: <https://doi.org/10.1063/1.5024595>
 
+Deep Dynamical Modeling and Control of Unsteady Fluid Flows ,
+PDF: <http://papers.nips.cc/paper/8138-deep-dynamical-modeling-and-control-of-unsteady-fluid-flows>
+
+
 ## Additional Links for General PDEs
 
 Data-driven discretization: a method for systematic coarse graining of partial differential equations , 
@@ -140,6 +144,9 @@ PDF: <https://arxiv.org/abs/1612.00222>
 
 Flexible Neural Representation for Physics Prediction ,
 Project+Code: <https://neuroailab.github.io/physics/>
+
+Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning ,
+PDF: <https://openreview.net/pdf?id=BklHpjCqKm>
 
 Robust Reference Frame Extraction from Unsteady 2D Vector Fields with Convolutional Neural Networks ,
 PDF: https://arxiv.org/pdf/1903.10255.pdf
