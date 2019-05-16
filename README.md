@@ -72,6 +72,7 @@ Project+Code: <https://ge.in.tum.de/publications/2018-mlflip-um/>
 Generating Liquid Simulations with Deformation-aware Neural Networks , 
 Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
+
 ## Additional Links for Fluids
 
 Accelerating Eulerian Fluid Simulation With Convolutional Networks , 
@@ -98,6 +99,9 @@ PDF: <https://doi.org/10.1063/1.5024595>
 Deep Dynamical Modeling and Control of Unsteady Fluid Flows ,
 PDF: <http://papers.nips.cc/paper/8138-deep-dynamical-modeling-and-control-of-unsteady-fluid-flows>
 
+Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids
+Project+Code: <http://dpi.csail.mit.edu>
+
 
 ## Additional Links for General PDEs
 
@@ -118,6 +122,7 @@ PDF: <https://arxiv.org/pdf/1812.04426>
 
 Learning Deep Neural Network Representations for Koopman Operators of Nonlinear Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/1708.06850>
+
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
@@ -149,8 +154,10 @@ Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning ,
 PDF: <https://openreview.net/pdf?id=BklHpjCqKm>
 
 Robust Reference Frame Extraction from Unsteady 2D Vector Fields with Convolutional Neural Networks ,
-PDF: https://arxiv.org/pdf/1903.10255.pdf
+PDF: <https://arxiv.org/pdf/1903.10255.pdf>
 
+Reasoning About Physical Interactions with Object-Oriented Prediction and Planning
+PDF: <https://arxiv.org/abs/1812.10972>
 
 
 # Concluding Remarks
@@ -158,6 +165,6 @@ PDF: https://arxiv.org/pdf/1903.10255.pdf
 Physics-based deep learning is a very dynamic field. Please let us know if we've overlooked
 papers that you think should be included by sending a mail to _i15ge at cs.tum.de_.
 
-Also feel free to check out our homepage at <https://ge.in.tum.de/blog/>, 
+Also feel free to check out our homepage at <https://ge.in.tum.de/>, 
 and our open source fluid simulation and deep learning framework _mantaflow_: <http://mantaflow.com>
  
