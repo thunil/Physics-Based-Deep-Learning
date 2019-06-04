@@ -115,6 +115,9 @@ PDF: <https://arxiv.org/pdf/1709.02432>
 Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equations , 
 PDF: <https://arxiv.org/pdf/1708.00588>
 
+Data-assisted reduced-order modeling of extreme events in complex dynamical systems , 
+Project+Code: <https://github.com/zhong1wan/data-assisted>
+
 PDE-Net: Learning PDEs from Data , 
 Project+Code: <https://github.com/ZichaoLong/PDE-Net>
 
@@ -126,9 +129,6 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 IDENT: Identifying Differential Equations with Numerical Time evolution , 
 PDF: <https://arxiv.org/pdf/1904.03538.pdf>
-
-Data-assisted reduced-order modeling of extreme events in complex dynamical systems , 
-PDF: <https://www.cse-lab.ethz.ch/wp-content/papercite-data/pdf/wan2018a.pdf>
 
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
