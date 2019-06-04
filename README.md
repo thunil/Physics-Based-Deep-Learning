@@ -49,6 +49,7 @@ learning in general.
 
 ![An example flow result from tempoGAN](resources/physics-based-deep-learning-teaser1.jpg)
 
+
 ## I15 Links
 
 tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow , 
@@ -96,10 +97,10 @@ PDF: <https://arxiv.org/pdf/1712.07854>
 Prediction model of velocity field around circular cylinder over various Reynolds numbers by fusion convolutional neural networks based on pressure on the cylinder , 
 PDF: <https://doi.org/10.1063/1.5024595>
 
-Deep Dynamical Modeling and Control of Unsteady Fluid Flows ,
+Deep Dynamical Modeling and Control of Unsteady Fluid Flows , 
 PDF: <http://papers.nips.cc/paper/8138-deep-dynamical-modeling-and-control-of-unsteady-fluid-flows>
 
-Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids
+Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids , 
 Project+Code: <http://dpi.csail.mit.edu>
 
 
@@ -117,11 +118,17 @@ PDF: <https://arxiv.org/pdf/1708.00588>
 PDE-Net: Learning PDEs from Data , 
 Project+Code: <https://github.com/ZichaoLong/PDE-Net>
 
-PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network ,
+PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network , 
 PDF: <https://arxiv.org/pdf/1812.04426>
 
 Learning Deep Neural Network Representations for Koopman Operators of Nonlinear Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/1708.06850>
+
+IDENT: Identifying Differential Equations with Numerical Time evolution , 
+PDF: <https://arxiv.org/pdf/1904.03538.pdf>
+
+Data-assisted reduced-order modeling of extreme events in complex dynamical systems , 
+PDF: <https://www.cse-lab.ethz.ch/wp-content/papercite-data/pdf/wan2018a.pdf>
 
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
@@ -147,16 +154,16 @@ PDF: <https://arxiv.org/pdf/1806.01242.pdf>
 Interaction Networks for Learning about Objects, Relations and Physics , 
 PDF: <https://arxiv.org/abs/1612.00222>
 
-Flexible Neural Representation for Physics Prediction ,
+Flexible Neural Representation for Physics Prediction , 
 Project+Code: <https://neuroailab.github.io/physics/>
 
-Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning ,
+Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning , 
 PDF: <https://openreview.net/pdf?id=BklHpjCqKm>
 
-Robust Reference Frame Extraction from Unsteady 2D Vector Fields with Convolutional Neural Networks ,
+Robust Reference Frame Extraction from Unsteady 2D Vector Fields with Convolutional Neural Networks , 
 PDF: <https://arxiv.org/pdf/1903.10255.pdf>
 
-Reasoning About Physical Interactions with Object-Oriented Prediction and Planning
+Reasoning About Physical Interactions with Object-Oriented Prediction and Planning , 
 PDF: <https://arxiv.org/abs/1812.10972>
 
 
