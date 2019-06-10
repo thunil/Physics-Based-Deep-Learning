@@ -152,7 +152,7 @@ Graph networks as learnable physics engines for inference and control ,
 PDF: <https://arxiv.org/pdf/1806.01242.pdf>
 
 Interaction Networks for Learning about Objects, Relations and Physics , 
-PDF: <https://arxiv.org/abs/1612.00222>
+PDF: <https://arxiv.org/pdf/1612.00222.pdf>
 
 Flexible Neural Representation for Physics Prediction , 
 Project+Code: <https://neuroailab.github.io/physics/>
@@ -164,7 +164,13 @@ Robust Reference Frame Extraction from Unsteady 2D Vector Fields with Convolutio
 PDF: <https://arxiv.org/pdf/1903.10255.pdf>
 
 Reasoning About Physical Interactions with Object-Oriented Prediction and Planning , 
-PDF: <https://arxiv.org/abs/1812.10972>
+PDF: <https://arxiv.org/pdf/1812.10972.pdf>
+
+Physics-as-Inverse-Graphics: Joint Unsupervised Learning of Objects and Physics from Video , 
+PDF: <https://arxiv.org/pdf/1905.11169.pdf>
+
+Unsupervised Intuitive Physics from Past Experiences , 
+PDF: <https://arxiv.org/pdf/1905.10793.pdf>
 
 
 # Concluding Remarks
