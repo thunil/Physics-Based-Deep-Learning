@@ -61,6 +61,9 @@ Project+Code: <http://www.byungsoo.me/project/deep-fluids/>
 Latent-space Physics: Towards Learning the Temporal Evolution of Fluid Flow , 
 Project+Code: <https://ge.in.tum.de/publications/latent-space-physics/>
 
+A Multi-Pass GAN for Fluid Flow Super-Resolution , 
+PDF: <https://ge.in.tum.de/publications/2019-multi-pass-gan/>
+
 A Study of Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations , 
 Project+Code: <https://github.com/thunil/Deep-Flow-Prediction>
 
