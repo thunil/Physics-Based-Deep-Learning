@@ -79,14 +79,17 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
-Accelerating Eulerian Fluid Simulation With Convolutional Networks , 
-Project+Code: <https://cims.nyu.edu/~schlacht/CNNFluids.htm>
+Deep Neural Networks for Data-Driven Turbulence Models , 
+PDF: <https://export.arxiv.org/pdf/1806.04482>
+
+Deep Dynamical Modeling and Control of Unsteady Fluid Flows , 
+PDF: <http://papers.nips.cc/paper/8138-deep-dynamical-modeling-and-control-of-unsteady-fluid-flows>
+
+Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids , 
+Project+Code: <http://dpi.csail.mit.edu>
 
 Reasoning About Liquids via Closed-Loop Simulation , 
 PDF: <https://arxiv.org/pdf/1703.01656>
-
-Deep Neural Networks for Data-Driven Turbulence Models , 
-PDF: <https://export.arxiv.org/pdf/1806.04482>
 
 Application of Convolutional Neural Network to Predict Airfoil Lift Coefficient , 
 PDF: <https://arxiv.org/pdf/1712.10082>
@@ -100,17 +103,20 @@ PDF: <https://arxiv.org/pdf/1712.07854>
 Prediction model of velocity field around circular cylinder over various Reynolds numbers by fusion convolutional neural networks based on pressure on the cylinder , 
 PDF: <https://doi.org/10.1063/1.5024595>
 
-Deep Dynamical Modeling and Control of Unsteady Fluid Flows , 
-PDF: <http://papers.nips.cc/paper/8138-deep-dynamical-modeling-and-control-of-unsteady-fluid-flows>
-
-Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids , 
-Project+Code: <http://dpi.csail.mit.edu>
+Accelerating Eulerian Fluid Simulation With Convolutional Networks , 
+Project+Code: <https://cims.nyu.edu/~schlacht/CNNFluids.htm>
 
 
 ## Additional Links for General PDEs
 
+IDENT: Identifying Differential Equations with Numerical Time evolution , 
+PDF: <https://arxiv.org/pdf/1904.03538.pdf>
+
 Data-driven discretization: a method for systematic coarse graining of partial differential equations , 
 PDF: <https://arxiv.org/pdf/1808.04930>
+
+PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network , 
+PDF: <https://arxiv.org/pdf/1812.04426>
 
 Deep Learning the Physics of Transport Phenomena , 
 PDF: <https://arxiv.org/pdf/1709.02432>
@@ -124,23 +130,35 @@ Project+Code: <https://github.com/zhong1wan/data-assisted>
 PDE-Net: Learning PDEs from Data , 
 Project+Code: <https://github.com/ZichaoLong/PDE-Net>
 
-PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network , 
-PDF: <https://arxiv.org/pdf/1812.04426>
-
 Learning Deep Neural Network Representations for Koopman Operators of Nonlinear Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/1708.06850>
-
-IDENT: Identifying Differential Equations with Numerical Time evolution , 
-PDF: <https://arxiv.org/pdf/1904.03538.pdf>
 
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
-DeepWarp: DNN-based Nonlinear Deformation , 
-PDF: <https://arxiv.org/pdf/1803.09109>
+Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning , 
+PDF: <https://openreview.net/pdf?id=BklHpjCqKm>
+
+Flexible Neural Representation for Physics Prediction , 
+Project+Code: <https://neuroailab.github.io/physics/>
+
+Robust Reference Frame Extraction from Unsteady 2D Vector Fields with Convolutional Neural Networks , 
+PDF: <https://arxiv.org/pdf/1903.10255.pdf>
+
+Physics-as-Inverse-Graphics: Joint Unsupervised Learning of Objects and Physics from Video , 
+PDF: <https://arxiv.org/pdf/1905.11169.pdf>
+
+Unsupervised Intuitive Physics from Past Experiences , 
+PDF: <https://arxiv.org/pdf/1905.10793.pdf>
+
+Reasoning About Physical Interactions with Object-Oriented Prediction and Planning , 
+PDF: <https://arxiv.org/pdf/1812.10972.pdf>
 
 Neural Material: Learning Elastic Constitutive Material and Damping Models from Sparse Data , 
 PDF: <https://arxiv.org/pdf/1808.04931>
+
+Discovering physical concepts with neural networks , 
+PDF: https://arxiv.org/pdf/1807.10300.pdf
 
 Fluid directed rigid body control using deep reinforcement learning , 
 Project: <http://gamma.cs.unc.edu/DRL_FluidRigid/>
@@ -154,26 +172,11 @@ PDF: <https://arxiv.org/pdf/1805.05086>
 Graph networks as learnable physics engines for inference and control , 
 PDF: <https://arxiv.org/pdf/1806.01242.pdf>
 
+DeepWarp: DNN-based Nonlinear Deformation , 
+PDF: <https://arxiv.org/pdf/1803.09109>
+
 Interaction Networks for Learning about Objects, Relations and Physics , 
 PDF: <https://arxiv.org/pdf/1612.00222.pdf>
-
-Flexible Neural Representation for Physics Prediction , 
-Project+Code: <https://neuroailab.github.io/physics/>
-
-Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning , 
-PDF: <https://openreview.net/pdf?id=BklHpjCqKm>
-
-Robust Reference Frame Extraction from Unsteady 2D Vector Fields with Convolutional Neural Networks , 
-PDF: <https://arxiv.org/pdf/1903.10255.pdf>
-
-Reasoning About Physical Interactions with Object-Oriented Prediction and Planning , 
-PDF: <https://arxiv.org/pdf/1812.10972.pdf>
-
-Physics-as-Inverse-Graphics: Joint Unsupervised Learning of Objects and Physics from Video , 
-PDF: <https://arxiv.org/pdf/1905.11169.pdf>
-
-Unsupervised Intuitive Physics from Past Experiences , 
-PDF: <https://arxiv.org/pdf/1905.10793.pdf>
 
 
 # Concluding Remarks
