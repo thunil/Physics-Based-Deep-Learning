@@ -136,6 +136,12 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Latent-space Dynamics for Reduced Deformable Simulation ,
+Project+Code: http://www.dgp.toronto.edu/projects/latent-space-dynamics/
+
+Learning-Based Animation of Clothing for Virtual Try-On ,
+PDF: http://www.gmrv.es/Publications/2019/SOC19/
+
 Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning , 
 PDF: <https://openreview.net/pdf?id=BklHpjCqKm>
 
