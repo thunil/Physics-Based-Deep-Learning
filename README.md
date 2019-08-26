@@ -185,6 +185,17 @@ Interaction Networks for Learning about Objects, Relations and Physics ,
 PDF: <https://arxiv.org/pdf/1612.00222.pdf>
 
 
+
+## Surveys and Overview Articles
+
+A review on Deep Reinforcement Learning for Fluid Mechanics ,
+PDF: https://arxiv.org/pdf/1908.04127.pdf
+
+Machine Learning for Fluid Mechanics , 
+PDF: https://arxiv.org/pdf/1905.11075.pdf
+
+
+
 # Concluding Remarks
 
 Physics-based deep learning is a very dynamic field. Please let us know if we've overlooked
