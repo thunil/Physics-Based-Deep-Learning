@@ -79,6 +79,12 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Dynamic Upsampling of Smoke through Dictionary-based Learning , 
+PDF: <https://arxiv.org/abs/1910.09166>
+
+Computing interface curvature from volume fractions: A machine learning approach , 
+PDF: <https://www.sciencedirect.com/science/article/abs/pii/S0045793019302282>
+
 Deep Neural Networks for Data-Driven Turbulence Models , 
 PDF: <https://export.arxiv.org/pdf/1806.04482>
 
