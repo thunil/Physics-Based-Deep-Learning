@@ -79,8 +79,14 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Deep neural networks for data-driven LES closure models , 
+PDF: <https://www.sciencedirect.com/science/article/pii/S0021999119306151>
+
 Dynamic Upsampling of Smoke through Dictionary-based Learning , 
 PDF: <https://arxiv.org/abs/1910.09166>
+
+Deep unsupervised learning of turbulence for inflow generation at various Reynolds numbers , 
+PDF: <https://arxiv.org/pdf/1908.10515.pdf>
 
 Computing interface curvature from volume fractions: A machine learning approach , 
 PDF: <https://www.sciencedirect.com/science/article/abs/pii/S0045793019302282>
@@ -142,11 +148,14 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Learning to Optimize Multigrid PDE Solvers
+PDF: <http://proceedings.mlr.press/v97/greenfeld19a/greenfeld19a.pdf>
+
 Latent-space Dynamics for Reduced Deformable Simulation ,
-Project+Code: http://www.dgp.toronto.edu/projects/latent-space-dynamics/
+Project+Code: <http://www.dgp.toronto.edu/projects/latent-space-dynamics/>
 
 Learning-Based Animation of Clothing for Virtual Try-On ,
-PDF: http://www.gmrv.es/Publications/2019/SOC19/
+PDF: <http://www.gmrv.es/Publications/2019/SOC19/>
 
 Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning , 
 PDF: <https://openreview.net/pdf?id=BklHpjCqKm>
@@ -170,7 +179,7 @@ Neural Material: Learning Elastic Constitutive Material and Damping Models from 
 PDF: <https://arxiv.org/pdf/1808.04931>
 
 Discovering physical concepts with neural networks , 
-PDF: https://arxiv.org/pdf/1807.10300.pdf
+PDF: <https://arxiv.org/pdf/1807.10300.pdf>
 
 Fluid directed rigid body control using deep reinforcement learning , 
 Project: <http://gamma.cs.unc.edu/DRL_FluidRigid/>
@@ -195,10 +204,10 @@ PDF: <https://arxiv.org/pdf/1612.00222.pdf>
 ## Surveys and Overview Articles
 
 A review on Deep Reinforcement Learning for Fluid Mechanics ,
-PDF: https://arxiv.org/pdf/1908.04127.pdf
+PDF: <https://arxiv.org/pdf/1908.04127.pdf>
 
 Machine Learning for Fluid Mechanics , 
-PDF: https://arxiv.org/pdf/1905.11075.pdf
+PDF: <https://arxiv.org/pdf/1905.11075.pdf>
 
 
 
