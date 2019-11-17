@@ -79,6 +79,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+DeepFlow: History Matching in the Space of Deep Generative Models , 
+PDF: <https://arxiv.org/abs/1905.05749>
+
 Deep neural networks for data-driven LES closure models , 
 PDF: <https://www.sciencedirect.com/science/article/pii/S0021999119306151>
 
@@ -148,7 +151,10 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
-Learning to Optimize Multigrid PDE Solvers
+Stochastic seismic waveform inversion using generative adversarial networks as a geological prior , 
+PDF: <https://arxiv.org/abs/1806.03720>
+
+Learning to Optimize Multigrid PDE Solvers , 
 PDF: <http://proceedings.mlr.press/v97/greenfeld19a/greenfeld19a.pdf>
 
 Latent-space Dynamics for Reduced Deformable Simulation ,
