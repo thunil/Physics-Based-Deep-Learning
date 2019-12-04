@@ -52,6 +52,9 @@ learning in general.
 
 ## I15 Links
 
+ScalarFlow: A Large-Scale Volumetric Data Set of Real-world Scalar Transport Flows for Computer Animation and Machine Learning , 
+Project+Code: <https://ge.in.tum.de/publications/2019-tog-eckert/>
+
 tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow , 
 Project+Code: <https://ge.in.tum.de/publications/tempogan/>
 
@@ -78,6 +81,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 
 ## Additional Links for Fluids
+
+Towards Physics-informed Deep Learning for Turbulent Flow Prediction , 
+PDF: <https://arxiv.org/abs/1911.08655>
 
 DeepFlow: History Matching in the Space of Deep Generative Models , 
 PDF: <https://arxiv.org/abs/1905.05749>
