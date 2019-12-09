@@ -130,6 +130,9 @@ Project+Code: <https://cims.nyu.edu/~schlacht/CNNFluids.htm>
 
 ## Additional Links for General PDEs
 
+Poisson CNN: Convolutional Neural Networks for the Solution of the Poisson Equation with Varying Meshes and Dirichlet Boundary Conditions , 
+PDF: <https://arxiv.org/abs/1910.08613>
+
 IDENT: Identifying Differential Equations with Numerical Time evolution , 
 PDF: <https://arxiv.org/pdf/1904.03538.pdf>
 
@@ -156,6 +159,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
+
+Modeling Expectation Violation in Intuitive Physics with Coarse Probabilistic Object Representations , 
+Project: <http://physadept.csail.mit.edu>
 
 Stochastic seismic waveform inversion using generative adversarial networks as a geological prior , 
 PDF: <https://arxiv.org/abs/1806.03720>
