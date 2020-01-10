@@ -52,6 +52,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Lagrangian Fluid Simulation with Continuous Convolutions , 
+PDF: <https://openreview.net/forum?id=B1lDoJSYDH>
+
 Tranquil-Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds , 
 PDF: <https://openreview.net/forum?id=BJeKh3VYDH>
 
