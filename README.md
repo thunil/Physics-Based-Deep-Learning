@@ -52,6 +52,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Learning to Control PDEs with Differentiable Physics , 
+PDF: <https://openreview.net/forum?id=HyeSin4FPB>
+
 Lagrangian Fluid Simulation with Continuous Convolutions , 
 PDF: <https://openreview.net/forum?id=B1lDoJSYDH>
 
@@ -235,11 +238,16 @@ PDF: <https://arxiv.org/pdf/1905.11075.pdf>
 
 
 
+## Simulation and Deep Learning Frameworks
+
+phiflow: <http://https://github.com/tum-pbs/phiflow>
+
+mantaflow: <http://mantaflow.com>
+
+
 # Concluding Remarks
 
 Physics-based deep learning is a very dynamic field. Please let us know if we've overlooked
-papers that you think should be included by sending a mail to _i15ge at cs.tum.de_.
-
-Also feel free to check out our homepage at <https://ge.in.tum.de/>, 
-and our open source fluid simulation and deep learning framework _mantaflow_: <http://mantaflow.com>
+papers that you think should be included by sending a mail to _i15ge at cs.tum.de_,
+and feel free to check out our homepage at <https://ge.in.tum.de/>.
  
