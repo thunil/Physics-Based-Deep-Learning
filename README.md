@@ -139,6 +139,9 @@ Project+Code: <https://cims.nyu.edu/~schlacht/CNNFluids.htm>
 
 ## Additional Links for General PDEs
 
+Variational Physics-Informed Neural Networks For Solving Partial Differential Equations , 
+PDF: <https://arxiv.org/abs/1912.00873>
+
 Poisson CNN: Convolutional Neural Networks for the Solution of the Poisson Equation with Varying Meshes and Dirichlet Boundary Conditions , 
 PDF: <https://arxiv.org/abs/1910.08613>
 
