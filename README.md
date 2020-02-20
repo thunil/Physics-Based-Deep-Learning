@@ -172,6 +172,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+DiffTaichi: Differentiable Programming for Physical Simulation , 
+PDF: <https://arxiv.org/abs/1910.00935>
+
 COPHY: Counterfactual Learning of Physical Dynamics , 
 Project: <https://github.com/fabienbaradel/cophy>
 
