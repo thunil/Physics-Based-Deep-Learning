@@ -53,16 +53,16 @@ learning in general.
 ## I15 Physics-based Deep Learning Links
 
 Learning Similarity Metrics for Numerical Simulations (LSiM) ,
-Project: <https://ge.in.tum.de/publications/2020-lsim-kohl/>
+Project+Code: <https://ge.in.tum.de/publications/2020-lsim-kohl/>
 
 Learning to Control PDEs with Differentiable Physics , 
-PDF: <https://openreview.net/forum?id=HyeSin4FPB>
+Project+Code: <https://ge.in.tum.de/publications/2020-iclr-holl/>
 
 Lagrangian Fluid Simulation with Continuous Convolutions , 
 PDF: <https://openreview.net/forum?id=B1lDoJSYDH>
 
 Tranquil-Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds , 
-PDF: <https://openreview.net/forum?id=BJeKh3VYDH>
+Project+Code: <https://ge.in.tum.de/publications/2020-iclr-prantl/>
 
 ScalarFlow: A Large-Scale Volumetric Data Set of Real-world Scalar Transport Flows for Computer Animation and Machine Learning , 
 Project+Code: <https://ge.in.tum.de/publications/2019-tog-eckert/>
