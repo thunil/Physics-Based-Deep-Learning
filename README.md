@@ -139,6 +139,9 @@ PDF: <https://doi.org/10.1063/1.5024595>
 Accelerating Eulerian Fluid Simulation With Convolutional Networks , 
 Project+Code: <https://cims.nyu.edu/~schlacht/CNNFluids.htm>
 
+Reynolds averaged turbulence modelling using deep neural networks with embedded invariance ,
+PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pdf>
+
 
 ## Additional Links for General PDEs
 
