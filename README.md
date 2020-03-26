@@ -100,6 +100,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Learning to Simulate Complex Physics with Graph Networks , 
+PDF: <https://arxiv.org/abs/2002.09405>
+
 Towards Physics-informed Deep Learning for Turbulent Flow Prediction , 
 PDF: <https://arxiv.org/abs/1911.08655>
 
