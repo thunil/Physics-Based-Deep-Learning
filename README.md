@@ -187,6 +187,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Learning to Measure the Static Friction Coefficient in Cloth Contact , 
+PDF: <https://hal.inria.fr/hal-02511646>
+
 Learning to Simulate Complex Physics with Graph Networks , 
 PDF: <https://arxiv.org/abs/2002.09405>
 
