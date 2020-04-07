@@ -100,6 +100,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Controlling Rayleigh-Benard convection via Reinforcement Learning , 
+PDF: <https://arxiv.org/pdf/2003.14358.pdf>
+
 Learning to Simulate Complex Physics with Graph Networks , 
 PDF: <https://arxiv.org/abs/2002.09405>
 
