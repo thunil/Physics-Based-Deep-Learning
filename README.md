@@ -190,6 +190,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Incorporating Symmetry into Deep Dynamics Models for Improved Generalization ,
+PDF: <https://arxiv.org/pdf/2002.03061.pdf>
+
 Learning to Measure the Static Friction Coefficient in Cloth Contact , 
 PDF: <https://hal.inria.fr/hal-02511646>
 
