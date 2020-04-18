@@ -157,6 +157,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Understanding and mitigating gradient pathologies in physics-informed neural networks , 
+PDF: <https://arxiv.org/pdf/2001.04536.pdf>
+
 Variational Physics-Informed Neural Networks For Solving Partial Differential Equations , 
 PDF: <https://arxiv.org/abs/1912.00873>
 
