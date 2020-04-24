@@ -193,6 +193,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Differentiable Molecular Simulations for Control and Learning , 
+PDF: <https://arxiv.org/pdf/2003.00868.pdf>
+
 Incorporating Symmetry into Deep Dynamics Models for Improved Generalization ,
 PDF: <https://arxiv.org/pdf/2002.03061.pdf>
 
