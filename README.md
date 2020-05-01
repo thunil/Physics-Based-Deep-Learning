@@ -112,6 +112,9 @@ PDF: <https://arxiv.org/abs/1911.08655>
 DeepFlow: History Matching in the Space of Deep Generative Models , 
 PDF: <https://arxiv.org/abs/1905.05749>
 
+Compressed convolutional LSTM: An efficient deep learning framework to model high fidelity 3D turbulence , 
+PDF: <https://arxiv.org/pdf/1903.00033.pdf>
+
 Deep neural networks for data-driven LES closure models , 
 PDF: <https://www.sciencedirect.com/science/article/pii/S0021999119306151>
 
