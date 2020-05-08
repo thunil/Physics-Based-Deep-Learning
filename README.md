@@ -199,6 +199,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics , 
+Project: <https://github.com/USC-Melady/ICLR2020-PADGN>
+
 Differentiable Molecular Simulations for Control and Learning , 
 PDF: <https://arxiv.org/pdf/2003.00868.pdf>
 
