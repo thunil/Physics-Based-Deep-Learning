@@ -100,6 +100,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Embedding Hard Physical Constraints in Neural Network Coarse-Graining of 3D Turbulence , 
+PDF: <https://arxiv.org/pdf/2002.00021.pdf>
+
 Controlling Rayleigh-Benard convection via Reinforcement Learning , 
 PDF: <https://arxiv.org/pdf/2003.14358.pdf>
 
