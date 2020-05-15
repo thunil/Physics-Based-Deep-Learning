@@ -217,6 +217,9 @@ PDF: <https://hal.inria.fr/hal-02511646>
 Learning to Simulate Complex Physics with Graph Networks , 
 PDF: <https://arxiv.org/abs/2002.09405>
 
+Hamiltonian Neural Networks , 
+PDF: <http://papers.nips.cc/paper/9672-hamiltonian-neural-networks.pdf>
+
 DiffTaichi: Differentiable Programming for Physical Simulation , 
 PDF: <https://arxiv.org/abs/1910.00935>
 
@@ -276,6 +279,9 @@ PDF: <https://arxiv.org/pdf/1806.01242.pdf>
 
 DeepWarp: DNN-based Nonlinear Deformation , 
 PDF: <https://arxiv.org/pdf/1803.09109>
+
+A proposal on machine learning via dynamical systems , 
+Journal: <https://link.springer.com/article/10.1007/s40304-017-0103-z>
 
 Interaction Networks for Learning about Objects, Relations and Physics , 
 PDF: <https://arxiv.org/pdf/1612.00222.pdf>
