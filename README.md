@@ -100,14 +100,21 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
-Embedding Hard Physical Constraints in Neural Network Coarse-Graining of 3D Turbulence , 
-PDF: <https://arxiv.org/pdf/2002.00021.pdf>
+
+CFDNet: A deep learning-based accelerator for fluid simulations , 
+PDF: <https://arxiv.org/pdf/2005.04485.pdf>
 
 Controlling Rayleigh-Benard convection via Reinforcement Learning , 
 PDF: <https://arxiv.org/pdf/2003.14358.pdf>
 
+Embedding Hard Physical Constraints in Neural Network Coarse-Graining of 3D Turbulence , 
+PDF: <https://arxiv.org/pdf/2002.00021.pdf>
+
 Learning to Simulate Complex Physics with Graph Networks , 
 PDF: <https://arxiv.org/abs/2002.09405>
+
+DPM: A deep learning PDE augmentation method (with application to large-eddy simulation) , 
+PDF: <https://arxiv.org/abs/1911.09145> 
 
 Towards Physics-informed Deep Learning for Turbulent Flow Prediction , 
 PDF: <https://arxiv.org/abs/1911.08655>
@@ -139,17 +146,17 @@ PDF: <http://papers.nips.cc/paper/8138-deep-dynamical-modeling-and-control-of-un
 Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids , 
 Project+Code: <http://dpi.csail.mit.edu>
 
-Reasoning About Liquids via Closed-Loop Simulation , 
-PDF: <https://arxiv.org/pdf/1703.01656>
-
 Application of Convolutional Neural Network to Predict Airfoil Lift Coefficient , 
 PDF: <https://arxiv.org/pdf/1712.10082>
+
+Prediction of laminar vortex shedding over a cylinder using deep learning , 
+PDF: <https://arxiv.org/pdf/1712.07854>
 
 Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks , 
 PDF: <https://arxiv.org/pdf/1705.09036>
 
-Prediction of laminar vortex shedding over a cylinder using deep learning , 
-PDF: <https://arxiv.org/pdf/1712.07854>
+Reasoning About Liquids via Closed-Loop Simulation , 
+PDF: <https://arxiv.org/pdf/1703.01656>
 
 Prediction model of velocity field around circular cylinder over various Reynolds numbers by fusion convolutional neural networks based on pressure on the cylinder , 
 PDF: <https://doi.org/10.1063/1.5024595>
