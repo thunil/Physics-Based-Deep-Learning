@@ -209,6 +209,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Learning to Slide Unknown Objects with Differentiable Physics Simulations , 
+PDF: <https://arxiv.org/pdf/2005.05456.pdf>
+
 Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics , 
 Project: <https://github.com/USC-Melady/ICLR2020-PADGN>
 
