@@ -185,6 +185,9 @@ PDF: <https://arxiv.org/abs/1910.08613>
 IDENT: Identifying Differential Equations with Numerical Time evolution , 
 PDF: <https://arxiv.org/pdf/1904.03538.pdf>
 
+DGM: A deep learning algorithm for solving partial differential equations , 
+PDF: <https://arxiv.org/pdf/1708.07469.pdf>
+
 Data-driven discretization: a method for systematic coarse graining of partial differential equations , 
 PDF: <https://arxiv.org/pdf/1808.04930>
 
