@@ -212,6 +212,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Cloth in the Wind: A Case Study of Physical Measurement through Simulation , 
+PDF: <https://arxiv.org/pdf/2003.05065>
+
 Learning to Slide Unknown Objects with Differentiable Physics Simulations , 
 PDF: <https://arxiv.org/pdf/2005.05456.pdf>
 
