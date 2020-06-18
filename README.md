@@ -1,47 +1,46 @@
 # Physics-Based Deep Learning
 
 The following collection of materials targets _"Physics-Based Deep Learning"_
-(PBDL), i.e. the field of methods with combinations of physical modeling and
+(PBDL), i.e., the field of methods with combinations of physical modeling and
 deep learning (DL) techniques. Here, DL will typically refer to methods based
 on artificial neural networks. The general direction of PBDL represents a very
 active and quickly growing field of research. 
 
 ![An overview of categories of physics-based deep learning methods](resources/physics-based-deep-learning-overview.jpg)
 
-Within this area we can roughly distinguish the following five categories:
+Within this area, we can distinguish a variety of different physics-based
+approaches, from targeting designs, constraints, combined methods, and
+optimizations to applications. More specifically, all approaches either target
+_forward_ simulations (predicting state or temporal evolution) or _inverse_
+problems (e.g., obtaining a parametrization for a physical system from
+observations). 
+Apart from forward or inverse, the type of integration between learning
+and physics gives a means for categorizing different methods:
 
-- _Physics-based design_: incorporate domain knowledge about the
-  system in the architecture of the learning process, e.g.,
-  adapt the connectivity of a neural network such that it facilitates 
-  certain solutions.
+- _Data-driven_: the data is produced by a physical system (real or simulated),
+  but no further interaction exists. 
 
-- _Physics-based constraints_: guide and constrain the learning
-  process with physical models, e.g., in the simplest case
-  by including additional terms in the loss function.
+- _Loss-terms_: the physical dynamics (or parts thereof) are encoded in the
+  loss function, typically in the form of differentiable operations. The
+  learning process can repeatedly evaluate the loss, and usually receives
+  gradients from a PDE-based formulation.
 
-- _Combined methods_: hybrid solvers that employ traditional
-  numerical methods alongside deep-learning techniques to arrive
-  at simulations methods that are improved in terms of, e.g., 
-  efficiency, accuracy, generalization etc.
+- _Interleaved_: the full physical simulation is interleaved and combined with
+  an output from a deep neural network; this requires a fully differentiable
+  simulator and represents the tightest coupling between the physical system and
+  the learning process. Interleaved approaches are especially important for
+  temporal evolutions, where they can yield an estimate of future behavior of the
+  dynamics.
 
-- _Outer-loop optimizations_:
-  approaches that aim for higher level control or inverse
-  problems, typically with an outer loop around a simulation.
-  Here, fast and differentiable models exhibit particular promise.
-
-- _Applications_: there are also many methods that apply established DL
-  techniques to physical problems without really changing them. These
-  works are nonetheless often highly interesting and much needed
-  to establish methodologies of how DL can be best used for physical
-  problems.
-
-In practice, these categories only serve as a rough guide to the space of
-methods in the area of physics-based deep learning, and there are many works
-below that combine aspects from more than one of these classes.
+Thus, methods can be roughly categorized in terms of forward versus inverse
+solve, and how tightly the physical model is integrated into the
+optimization loop that trains the deep neural network. Here, especially approaches
+that leverage _differentiable physics_ allow for a tighter and tighter integration
+of deep learning and numerical simulations.
 
 This repository collects links to works on _deep learning algorithms for physics
 problems_, with a particular emphasis on _fluid flow_, i.e., Navier-Stokes related
-problems. It especially collects links to the works of the I15 lab at TUM, as
+problems. It primarily collects links to the work of the I15 lab at TUM, as
 well as miscellaneous works from other groups. This is by no means a complete
 list, so let us know if you come across additional papers in this area. We
 intentionally also focus on works from the _deep learning_ field, not machine
