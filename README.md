@@ -166,6 +166,7 @@ Project+Code: <https://cims.nyu.edu/~schlacht/CNNFluids.htm>
 Reynolds averaged turbulence modelling using deep neural networks with embedded invariance ,
 PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pdf>
 
+![Image divider for general PDE section](resources/learning-similarity-metrics-divider.jpeg)
 
 ## Additional Links for General PDEs
 
