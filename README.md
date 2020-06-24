@@ -306,6 +306,9 @@ PDF: <https://arxiv.org/pdf/1612.00222.pdf>
 
 ## Surveys and Overview Articles
 
+Integrating Machine Learning with Physics-Based Modeling , 
+PDF: <https://arxiv.org/abs/2006.02619>
+
 A review on Deep Reinforcement Learning for Fluid Mechanics ,
 PDF: <https://arxiv.org/pdf/1908.04127.pdf>
 
@@ -316,7 +319,11 @@ PDF: <https://arxiv.org/pdf/1905.11075.pdf>
 
 ## Simulation and Deep Learning Frameworks
 
-phiflow: <http://https://github.com/tum-pbs/phiflow>
+phiflow: <https://github.com/tum-pbs/phiflow>
+
+diff-taichi: <https://github.com/yuanming-hu/difftaichi>
+
+jax-md: <https://github.com/google/jax-md>
 
 mantaflow: <http://mantaflow.com>
 
