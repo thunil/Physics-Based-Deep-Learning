@@ -51,6 +51,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers , 
+Project+Code: <https://ge.in.tum.de/publications/2020-um-solver-in-the-loop/>
+
 Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow , 
 PDF: <https://arxiv.org/abs/2003.08723>
 
