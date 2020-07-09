@@ -102,6 +102,8 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction , 
+PDF: <https://proceedings.icml.cc/static/paper_files/icml/2020/6414-Paper.pdf>
 
 CFDNet: A deep learning-based accelerator for fluid simulations , 
 PDF: <https://arxiv.org/pdf/2005.04485.pdf>
