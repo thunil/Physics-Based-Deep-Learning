@@ -173,6 +173,7 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ![Image divider for general PDE section](resources/learning-similarity-metrics-divider.jpeg)
 
+
 ## Additional Links for General PDEs
 
 Learning Compositional Koopman Operators for Model-Based Control , 
@@ -216,6 +217,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
+
+Scalable Differentiable Physics for Learning and Control ,
+PDF: <https://proceedings.icml.cc/static/paper_files/icml/2020/15-Paper.pdf>
 
 Cloth in the Wind: A Case Study of Physical Measurement through Simulation , 
 PDF: <https://arxiv.org/pdf/2003.05065>
