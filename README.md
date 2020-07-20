@@ -54,6 +54,9 @@ learning in general.
 Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers , 
 Project+Code: <https://ge.in.tum.de/publications/2020-um-solver-in-the-loop/>
 
+Data-driven Regularization via Racecar Training for Generalizing Neural Networks , 
+PDF: <https://arxiv.org/pdf/2007.00024.pdf>
+
 Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow , 
 PDF: <https://arxiv.org/abs/2003.08723>
 
