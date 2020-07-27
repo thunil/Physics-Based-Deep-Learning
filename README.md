@@ -221,6 +221,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Reinforcement Learning for Molecular Design Guided by Quantum Mechanics , 
+PDF: <https://proceedings.icml.cc/static/paper_files/icml/2020/1323-Paper.pdf>
+
 Scalable Differentiable Physics for Learning and Control ,
 PDF: <https://proceedings.icml.cc/static/paper_files/icml/2020/15-Paper.pdf>
 
