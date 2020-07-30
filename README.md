@@ -105,6 +105,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Learned discretizations for passive scalar advection in a 2-D turbulent flow ,
+PDF: <https://arxiv.org/pdf/2004.05477.pdf>
+
 Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction , 
 PDF: <https://proceedings.icml.cc/static/paper_files/icml/2020/6414-Paper.pdf>
 
@@ -320,6 +323,9 @@ PDF: <https://arxiv.org/pdf/1612.00222.pdf>
 
 
 ## Surveys and Overview Articles
+
+Integrating Physics-Based Modeling with Machine Learning: A Survey , 
+PDF: <https://arxiv.org/pdf/2003.04919>
 
 Integrating Machine Learning with Physics-Based Modeling , 
 PDF: <https://arxiv.org/abs/2006.02619>
