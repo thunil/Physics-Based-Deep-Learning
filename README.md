@@ -108,6 +108,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Enhanced data efficiency using deep neural networks and Gaussian processes for aerodynamic design optimization , 
+PDF: <https://arxiv.org/pdf/2008.06731>
+
 Learned discretizations for passive scalar advection in a 2-D turbulent flow ,
 PDF: <https://arxiv.org/pdf/2004.05477.pdf>
 
