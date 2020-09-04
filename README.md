@@ -206,17 +206,20 @@ PDF: <https://arxiv.org/abs/1910.08613>
 IDENT: Identifying Differential Equations with Numerical Time evolution , 
 PDF: <https://arxiv.org/pdf/1904.03538.pdf>
 
-DGM: A deep learning algorithm for solving partial differential equations , 
-PDF: <https://arxiv.org/pdf/1708.07469.pdf>
-
 Data-driven discretization: a method for systematic coarse graining of partial differential equations , 
 PDF: <https://arxiv.org/pdf/1808.04930>
+
+Neural Ordinary Differential Equations , 
+PDF: <https://arxiv.org/abs/1806.07366>
 
 PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network , 
 PDF: <https://arxiv.org/pdf/1812.04426>
 
 Deep Learning the Physics of Transport Phenomena , 
 PDF: <https://arxiv.org/pdf/1709.02432>
+
+DGM: A deep learning algorithm for solving partial differential equations , 
+PDF: <https://arxiv.org/pdf/1708.07469.pdf>
 
 Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equations , 
 PDF: <https://arxiv.org/pdf/1708.00588>
