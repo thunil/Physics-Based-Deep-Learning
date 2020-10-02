@@ -108,6 +108,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Learning to swim in potential flow , 
+PDF: <https://arxiv.org/abs/2009.14280>
+
 Enhanced data efficiency using deep neural networks and Gaussian processes for aerodynamic design optimization , 
 PDF: <https://arxiv.org/pdf/2008.06731>
 
