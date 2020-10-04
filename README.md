@@ -51,11 +51,14 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
-Purely data-driven medium-range weather forecasting achieves comparable skill to physical models at similar resolution , 
-PDF: <https://arxiv.org/abs/2008.08626>
-
 Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers , 
 Project+Code: <https://ge.in.tum.de/publications/2020-um-solver-in-the-loop/>
+
+Numerical investigation of minimum drag profiles in laminar flow using deep learning surrogates ,
+PDF: <https://arxiv.org/abs/2009.14339>
+
+Purely data-driven medium-range weather forecasting achieves comparable skill to physical models at similar resolution , 
+PDF: <https://arxiv.org/abs/2008.08626>
 
 Data-driven Regularization via Racecar Training for Generalizing Neural Networks , 
 PDF: <https://arxiv.org/abs/2007.00024>
