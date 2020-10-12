@@ -111,6 +111,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Using Machine Learning to Augment Coarse-Grid Computational Fluid Dynamics Simulations , 
+PDF: <https://arxiv.org/pdf/2010.00072.pdf>
+
 Learning to swim in potential flow , 
 PDF: <https://arxiv.org/abs/2009.14280>
 
