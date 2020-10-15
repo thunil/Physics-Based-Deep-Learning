@@ -278,6 +278,9 @@ PDF: <https://arxiv.org/abs/2002.09405>
 Hamiltonian Neural Networks , 
 PDF: <http://papers.nips.cc/paper/9672-hamiltonian-neural-networks.pdf>
 
+Interactive Differentiable Simulation , 
+PDF: <https://arxiv.org/pdf/1905.10706.pdf>
+
 DiffTaichi: Differentiable Programming for Physical Simulation , 
 PDF: <https://arxiv.org/abs/1910.00935>
 
@@ -286,6 +289,9 @@ Project: <https://github.com/fabienbaradel/cophy>
 
 Modeling Expectation Violation in Intuitive Physics with Coarse Probabilistic Object Representations , 
 Project: <http://physadept.csail.mit.edu>
+
+End-to-End Differentiable Physics for Learning and Control , 
+Project+Code: <https://github.com/locuslab/lcp-physics>
 
 Stochastic seismic waveform inversion using generative adversarial networks as a geological prior , 
 PDF: <https://arxiv.org/abs/1806.03720>
