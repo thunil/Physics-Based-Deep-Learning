@@ -111,6 +111,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Learning Mesh-Based Simulations with Graph Networks ,
+PDF: <https://arxiv.org/pdf/2010.03409.pdf>
+
 Using Machine Learning to Augment Coarse-Grid Computational Fluid Dynamics Simulations , 
 PDF: <https://arxiv.org/pdf/2010.00072.pdf>
 
