@@ -251,6 +251,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Transformers for Modeling Physical Systems , 
+PDF: <https://arxiv.org/pdf/2010.03957.pdf>
+
 Reinforcement Learning for Molecular Design Guided by Quantum Mechanics , 
 PDF: <https://proceedings.icml.cc/static/paper_files/icml/2020/1323-Paper.pdf>
 
