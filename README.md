@@ -254,6 +254,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Learning Composable Energy Surrogates for PDE Order Reduction , 
+PDF: <https://arxiv.org/pdf/2005.06549.pdf>
+
 Transformers for Modeling Physical Systems , 
 PDF: <https://arxiv.org/pdf/2010.03957>
 
