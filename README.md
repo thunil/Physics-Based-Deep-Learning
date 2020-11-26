@@ -206,6 +206,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Aphynity: Augmenting physical models with deep networks for complex dynamics forecasting , 
+PDF: https://arxiv.org/pdf/2010.04456.pdf
+
 Hierarchical Deep Learning of Multiscale Differential Equation Time-Steppers , 
 PDF: <https://arxiv.org/pdf/2008.09768>
 
