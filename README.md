@@ -257,6 +257,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Fourier Neural Operator for Parametric Partial Differential Equations , 
+PDF: <https://arxiv.org/pdf/2010.08895.pdf>
+
 Learning Composable Energy Surrogates for PDE Order Reduction , 
 PDF: <https://arxiv.org/pdf/2005.06549.pdf>
 
