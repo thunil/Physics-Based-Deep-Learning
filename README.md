@@ -397,8 +397,6 @@ diff-taichi: <https://github.com/yuanming-hu/difftaichi>
 
 jax-md: <https://github.com/google/jax-md>
 
-mantaflow: <http://mantaflow.com>
-
 
 # Concluding Remarks
 
