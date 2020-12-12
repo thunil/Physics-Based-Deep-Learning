@@ -215,6 +215,9 @@ PDF: <https://arxiv.org/pdf/2008.09768>
 Learning Compositional Koopman Operators for Model-Based Control , 
 Project: <http://koopman.csail.mit.edu>
 
+Universal Differential Equations for Scientific Machine Learning , 
+PDF: <https://arxiv.org/pdf/2001.04385.pdf>
+
 Understanding and mitigating gradient pathologies in physics-informed neural networks , 
 PDF: <https://arxiv.org/pdf/2001.04536>
 
