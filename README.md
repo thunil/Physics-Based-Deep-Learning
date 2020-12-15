@@ -230,14 +230,17 @@ PDF: <https://arxiv.org/pdf/1910.08613>
 IDENT: Identifying Differential Equations with Numerical Time evolution , 
 PDF: <https://arxiv.org/pdf/1904.03538>
 
+PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network , 
+PDF: <https://arxiv.org/pdf/1812.04426>
+
 Data-driven discretization: a method for systematic coarse graining of partial differential equations , 
 PDF: <https://arxiv.org/pdf/1808.04930>
 
+Solving high-dimensional partial differential equations using deep learning , 
+PDF: <https://www.pnas.org/content/115/34/8505.full.pdf>
+
 Neural Ordinary Differential Equations , 
 PDF: <https://arxiv.org/pdf/1806.07366>
-
-PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network , 
-PDF: <https://arxiv.org/pdf/1812.04426>
 
 Deep Learning the Physics of Transport Phenomena , 
 PDF: <https://arxiv.org/pdf/1709.02432>
