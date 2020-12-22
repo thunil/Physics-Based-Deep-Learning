@@ -111,6 +111,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels , 
+PDF: <https://arxiv.org/pdf/2011.02364.pdf>
+
 A Point-Cloud Deep Learning Framework for Prediction of Fluid Flow Fields on Irregular Geometries , 
 PDF: <https://arxiv.org/pdf/2010.09469>
 
