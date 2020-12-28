@@ -266,6 +266,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Deep Energy-based Modeling of Discrete-Time Physics , 
+PDF: <https://proceedings.neurips.cc/paper/2020/file/98b418276d571e623651fc1d471c7811-Paper.pdf>
+
 NeuralSim: Augmenting Differentiable Simulators with Neural Networks ,
 PDF: <https://arxiv.org/pdf/2011.04217.pdf>
 
