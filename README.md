@@ -35,7 +35,7 @@ and physics gives a means for categorizing different methods:
 Thus, methods can be roughly categorized in terms of forward versus inverse
 solve, and how tightly the physical model is integrated into the
 optimization loop that trains the deep neural network. Here, especially approaches
-that leverage _differentiable physics_ allow for a tighter and tighter integration
+that leverage _differentiable physics_ allow for very tight integration
 of deep learning and numerical simulations.
 
 This repository collects links to works on _deep learning algorithms for physics
@@ -208,6 +208,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 
 ## Additional Links for General PDEs
+
+Learning Poisson systems and trajectories of autonomous systems via Poisson neural networks , 
+PDF: <https://arxiv.org/pdf/2012.03133.pdf>
 
 Aphynity: Augmenting physical models with deep networks for complex dynamics forecasting , 
 PDF: <https://arxiv.org/pdf/2010.04456.pdf>
