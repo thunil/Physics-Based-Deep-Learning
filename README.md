@@ -269,6 +269,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Deluca – A Differentiable Control Library: Environments, Methods, and Benchmarking , 
+PDF: <https://papers.nips.cc/paper/2018/file/842424a1d0595b76ec4fa03c46e8d755-Paper.pdf>
+
 Deep Energy-based Modeling of Discrete-Time Physics , 
 PDF: <https://proceedings.neurips.cc/paper/2020/file/98b418276d571e623651fc1d471c7811-Paper.pdf>
 
