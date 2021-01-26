@@ -111,6 +111,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+A turbulent eddy-viscosity surrogate modeling framework for Reynolds-Averaged Navier-Stokes simulations:
+Project+Code: <https://www.sciencedirect.com/science/article/abs/pii/S0045793020303479>
+
 Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels , 
 PDF: <https://arxiv.org/pdf/2011.02364.pdf>
 
@@ -417,6 +420,8 @@ phiflow: <https://github.com/tum-pbs/phiflow>
 diff-taichi: <https://github.com/yuanming-hu/difftaichi>
 
 jax-md: <https://github.com/google/jax-md>
+
+tensorFlowFoam: <https://github.com/argonne-lcf/TensorFlowFoam>
 
 
 # Concluding Remarks
