@@ -111,7 +111,10 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
-A turbulent eddy-viscosity surrogate modeling framework for Reynolds-Averaged Navier-Stokes simulations:
+Machine learning accelerated computational fluid dynamics , 
+PDF: <https://arxiv.org/abs/2102.01010>
+
+A turbulent eddy-viscosity surrogate modeling framework for Reynolds-Averaged Navier-Stokes simulations , 
 Project+Code: <https://www.sciencedirect.com/science/article/abs/pii/S0045793020303479>
 
 Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels , 
