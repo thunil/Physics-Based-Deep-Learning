@@ -429,6 +429,9 @@ jax-md: <https://github.com/google/jax-md>
 
 tensorFlowFoam: <https://github.com/argonne-lcf/TensorFlowFoam>
 
+julia-sciml: <https://julialang.org/jsoc/gsoc/sciml/>
+
+
 
 # Concluding Remarks
 
