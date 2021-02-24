@@ -278,6 +278,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+High-order Differentiable Autoencoder for Nonlinear Model Reduction , 
+PDF: <https://arxiv.org/pdf/2102.11026.pdf>
+
 Modeling of the nonlinear flame response of a Bunsen-type flame via multi-layer perceptron , 
 Paper: <https://www.sciencedirect.com/science/article/pii/S1540748920305666>
 
