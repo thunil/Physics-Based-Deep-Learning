@@ -162,6 +162,12 @@ PDF: <https://arxiv.org/pdf/1911.09145>
 Towards Physics-informed Deep Learning for Turbulent Flow Prediction , 
 PDF: <https://arxiv.org/pdf/1911.08655>
 
+Dynamic Upsampling of Smoke through Dictionary-based Learning , 
+PDF: <https://arxiv.org/pdf/1910.09166>
+
+Deep unsupervised learning of turbulence for inflow generation at various Reynolds numbers , 
+PDF: <https://arxiv.org/pdf/1908.10515>
+
 DeepFlow: History Matching in the Space of Deep Generative Models , 
 PDF: <https://arxiv.org/pdf/1905.05749>
 
@@ -171,14 +177,11 @@ PDF: <https://arxiv.org/pdf/1903.03040>
 Compressed convolutional LSTM: An efficient deep learning framework to model high fidelity 3D turbulence , 
 PDF: <https://arxiv.org/pdf/1903.00033>
 
+Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data , 
+PDF: <https://arxiv.org/pdf/1901.06314.pdf>
+
 Deep neural networks for data-driven LES closure models , 
 PDF: <https://www.sciencedirect.com/science/article/pii/S0021999119306151>
-
-Dynamic Upsampling of Smoke through Dictionary-based Learning , 
-PDF: <https://arxiv.org/pdf/1910.09166>
-
-Deep unsupervised learning of turbulence for inflow generation at various Reynolds numbers , 
-PDF: <https://arxiv.org/pdf/1908.10515>
 
 Computing interface curvature from volume fractions: A machine learning approach , 
 PDF: <https://www.sciencedirect.com/science/article/abs/pii/S0045793019302282>
