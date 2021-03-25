@@ -111,8 +111,11 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Optimal control of point-to-point navigation in turbulent time dependent flows using Reinforcement Learning , 
+PDF: <https://arxiv.org/pdf/2103.00329.pdf>
+
 Machine learning accelerated computational fluid dynamics , 
-PDF: <https://arxiv.org/abs/2102.01010>
+PDF: <https://arxiv.org/pdf/2102.01010.pdf>
 
 Neural Particle Image Velocimetry , 
 PDF: <https://arxiv.org/pdf/2101.11950.pdf>
