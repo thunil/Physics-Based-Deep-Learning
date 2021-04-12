@@ -287,6 +287,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Fast and Feature-Complete Differentiable Physics for Articulated Rigid Bodies with Contact , 
+PDF: <https://arxiv.org/pdf/2103.16021>
+
 High-order Differentiable Autoencoder for Nonlinear Model Reduction , 
 PDF: <https://arxiv.org/pdf/2102.11026.pdf>
 
