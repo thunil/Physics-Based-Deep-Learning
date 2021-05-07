@@ -111,6 +111,9 @@ Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Embedded training of neural-network sub-grid-scale turbulence models , 
+PDF: <https://arxiv.org/abs/2105.01030>
+
 Optimal control of point-to-point navigation in turbulent time dependent flows using Reinforcement Learning , 
 PDF: <https://arxiv.org/pdf/2103.00329.pdf>
 
