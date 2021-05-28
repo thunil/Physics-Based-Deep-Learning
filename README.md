@@ -51,6 +51,8 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+
+
 Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers , 
 Project+Code: <https://ge.in.tum.de/publications/2020-um-solver-in-the-loop/>
 
@@ -295,6 +297,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
+
+Robust Value Iteration for Continuous Control Tasks , 
+PDF: <https://arxiv.org/pdf/2105.12189>
 
 Fast and Feature-Complete Differentiable Physics for Articulated Rigid Bodies with Contact , 
 PDF: <https://arxiv.org/pdf/2103.16021>
