@@ -51,10 +51,11 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
-
+Global Transport for Fluid Reconstruction with Learned Self-Supervision ,
+Project: <https://ge.in.tum.de/publications/2021-franz-globtrans/>
 
 Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers , 
-Project+Code: <https://ge.in.tum.de/publications/2020-um-solver-in-the-loop/>
+Project: <https://github.com/tum-pbs/Solver-in-the-Loop>
 
 Numerical investigation of minimum drag profiles in laminar flow using deep learning surrogates ,
 PDF: <https://arxiv.org/pdf/2009.14339>
@@ -63,52 +64,52 @@ Purely data-driven medium-range weather forecasting achieves comparable skill to
 PDF: <https://arxiv.org/pdf/2008.08626>
 
 Data-driven Regularization via Racecar Training for Generalizing Neural Networks , 
-PDF: <https://arxiv.org/pdf/2007.00024>
+Project: <https://ge.in.tum.de/publications/2020-xie-racecar/>
 
 Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow , 
-PDF: <https://arxiv.org/pdf/2003.08723>
+Project: <https://ge.in.tum.de/publications/2020-lssubdiv-wiewel/>
 
 WeatherBench: A benchmark dataset for data-driven weather forecasting , 
 Project: <https://github.com/pangeo-data/WeatherBench>
 
 Learning Similarity Metrics for Numerical Simulations (LSiM) ,
-Project+Code: <https://ge.in.tum.de/publications/2020-lsim-kohl/>
+Project: <https://ge.in.tum.de/publications/2020-lsim-kohl/>
 
 Learning to Control PDEs with Differentiable Physics , 
-Project+Code: <https://ge.in.tum.de/publications/2020-iclr-holl/>
+Project: <https://ge.in.tum.de/publications/2020-iclr-holl/>
 
 Lagrangian Fluid Simulation with Continuous Convolutions , 
 PDF: <https://openreview.net/forum?id=B1lDoJSYDH>
 
 Tranquil-Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds , 
-Project+Code: <https://ge.in.tum.de/publications/2020-iclr-prantl/>
+Project: <https://ge.in.tum.de/publications/2020-iclr-prantl/>
 
 ScalarFlow: A Large-Scale Volumetric Data Set of Real-world Scalar Transport Flows for Computer Animation and Machine Learning , 
-Project+Code: <https://ge.in.tum.de/publications/2019-tog-eckert/>
+Project: <https://ge.in.tum.de/publications/2019-tog-eckert/>
 
 tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow , 
-Project+Code: <https://ge.in.tum.de/publications/tempogan/>
+Project: <https://ge.in.tum.de/publications/tempogan/>
 
 Deep Fluids: A Generative Network for Parameterized Fluid Simulations , 
-Project+Code: <http://www.byungsoo.me/project/deep-fluids/>
+Project: <http://www.byungsoo.me/project/deep-fluids/>
 
 Latent-space Physics: Towards Learning the Temporal Evolution of Fluid Flow , 
-Project+Code: <https://ge.in.tum.de/publications/latent-space-physics/>
+Project: <https://ge.in.tum.de/publications/latent-space-physics/>
 
 A Multi-Pass GAN for Fluid Flow Super-Resolution , 
 PDF: <https://ge.in.tum.de/publications/2019-multi-pass-gan/>
 
 A Study of Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations , 
-Project+Code: <https://github.com/thunil/Deep-Flow-Prediction>
+Project: <https://github.com/thunil/Deep-Flow-Prediction>
 
 Data-Driven Synthesis of Smoke Flows with CNN-based Feature Descriptors , 
-Project+Code: <http://ge.in.tum.de/publications/2017-sig-chu/>
+Project: <http://ge.in.tum.de/publications/2017-sig-chu/>
 
 Liquid Splash Modeling with Neural Networks , 
-Project+Code: <https://ge.in.tum.de/publications/2018-mlflip-um/>
+Project: <https://ge.in.tum.de/publications/2018-mlflip-um/>
 
 Generating Liquid Simulations with Deformation-aware Neural Networks , 
-Project+Code: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
+Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 
 ## Additional Links for Fluids
