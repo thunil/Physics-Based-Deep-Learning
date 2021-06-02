@@ -230,6 +230,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Accelerating Neural ODEs Using Model Order Reduction , 
+PDF: <https://arxiv.org/pdf/2105.14070>
+
 Adversarial Multi-task Learning Enhanced Physics-informed Neural Networks for Solving Partial Differential Equations , 
 PDF: <https://arxiv.org/pdf/2104.14320>
 
