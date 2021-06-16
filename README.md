@@ -114,6 +114,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Simulating Continuum Mechanics with Multi-Scale Graph Neural Networks ,
+PDF: <https://arxiv.org/pdf/2106.04900.pdf>
+
 Embedded training of neural-network sub-grid-scale turbulence models , 
 PDF: <https://arxiv.org/abs/2105.01030>
 
