@@ -51,6 +51,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Learning Meaningful Controls for Fluids ,
+Project: <https://people.mpi-inf.mpg.de/~mchu/gvv-den2vel/den2vel.html>
+
 Global Transport for Fluid Reconstruction with Learned Self-Supervision ,
 Project: <https://ge.in.tum.de/publications/2021-franz-globtrans/>
 
