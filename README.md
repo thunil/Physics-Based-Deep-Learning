@@ -117,6 +117,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Scientific multi-agent reinforcement learning for wall-models of turbulent flows ,
+PDF: <https://arxiv.org/pdf/2106.11144.pdf>
+
 Simulating Continuum Mechanics with Multi-Scale Graph Neural Networks ,
 PDF: <https://arxiv.org/pdf/2106.04900.pdf>
 
