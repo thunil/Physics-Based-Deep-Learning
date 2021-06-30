@@ -117,6 +117,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Learning Incompressible Fluid Dynamics from Scratch - Towards Fast, Differentiable Fluid Models that Generalize , 
+PDF: <https://cg.cs.uni-bonn.de/aigaion2root/attachments/Paper.pdf> 
+
 Scientific multi-agent reinforcement learning for wall-models of turbulent flows ,
 PDF: <https://arxiv.org/pdf/2106.11144.pdf>
 
