@@ -242,6 +242,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Learning Functional Priors and Posteriors from Data and Physics , 
+PDF: <https://arxiv.org/pdf/2106.05863.pdf>
+
 Accelerating Neural ODEs Using Model Order Reduction , 
 PDF: <https://arxiv.org/pdf/2105.14070>
 
