@@ -127,7 +127,7 @@ Simulating Continuum Mechanics with Multi-Scale Graph Neural Networks ,
 PDF: <https://arxiv.org/pdf/2106.04900.pdf>
 
 Embedded training of neural-network sub-grid-scale turbulence models , 
-PDF: <https://arxiv.org/abs/2105.01030>
+PDF: <https://arxiv.org/pdf/2105.01030.pdf>
 
 Optimal control of point-to-point navigation in turbulent time dependent flows using Reinforcement Learning , 
 PDF: <https://arxiv.org/pdf/2103.00329.pdf>
@@ -316,6 +316,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
+
+Turbulent field fluctuations in gyrokinetic and fluid plasmas , 
+PDF: <https://arxiv.org/pdf/2107.09744.pdf>
 
 Robust Value Iteration for Continuous Control Tasks , 
 PDF: <https://arxiv.org/pdf/2105.12189>
