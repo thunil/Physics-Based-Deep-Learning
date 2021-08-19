@@ -317,6 +317,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+An Extensible Benchmark Suite for Learning to Simulate Physical Systems , 
+PDF: <https://arxiv.org/pdf/2108.07799>
+
 Turbulent field fluctuations in gyrokinetic and fluid plasmas , 
 PDF: <https://arxiv.org/pdf/2107.09744.pdf>
 
