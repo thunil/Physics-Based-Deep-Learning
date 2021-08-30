@@ -320,6 +320,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Deep learning for surrogate modelling of 2D mantle convection , 
+PDF: <https://arxiv.org/pdf/2108.10105>
+
 An Extensible Benchmark Suite for Learning to Simulate Physical Systems , 
 PDF: <https://arxiv.org/pdf/2108.07799>
 
