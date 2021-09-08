@@ -117,6 +117,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Towards extraction of orthogonal and parsimonious non-linear modes from turbulent flows , 
+PDF: <https://arxiv.org/pdf/2109.01514.pdf>
+
 SURFNet: Super-resolution of Turbulent Flows with Transfer Learning using Small Datasets , 
 PDF: <https://arxiv.org/pdf/2108.07667.pdf>
 
