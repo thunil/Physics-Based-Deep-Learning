@@ -6,6 +6,9 @@ deep learning (DL) techniques. Here, DL will typically refer to methods based
 on artificial neural networks. The general direction of PBDL represents a very
 active and quickly growing field of research. 
 
+If you're interested in a comprehensive overview, please check our digital 
+PBDL book: https://www.physicsbaseddeeplearning.org/
+
 ![An overview of categories of physics-based deep learning methods](resources/physics-based-deep-learning-overview.jpg)
 
 Within this area, we can distinguish a variety of different physics-based
@@ -50,6 +53,9 @@ learning in general.
 
 
 ## I15 Physics-based Deep Learning Links
+
+High-accuracy transonic RANS Flow Predictions with Deep Neural Networks ,
+PDF: <https://arxiv.org/pdf/2109.02183>
 
 Learning Meaningful Controls for Fluids ,
 Project: <https://people.mpi-inf.mpg.de/~mchu/gvv-den2vel/den2vel.html>
