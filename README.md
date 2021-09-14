@@ -329,6 +329,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+PhysGNN: A Physics–Driven Graph Neural Network Based Model for Predicting Soft Tissue Deformation in Image–Guided Neurosurgery ,
+PDF: <https://arxiv.org/pdf/2109.04352.pdf>
+
 Deep learning for surrogate modelling of 2D mantle convection , 
 PDF: <https://arxiv.org/pdf/2108.10105>
 
