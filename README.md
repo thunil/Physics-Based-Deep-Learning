@@ -7,7 +7,7 @@ on artificial neural networks. The general direction of PBDL represents a very
 active and quickly growing field of research. 
 
 If you're interested in a comprehensive overview, please check our digital 
-PBDL book: https://www.physicsbaseddeeplearning.org/
+PBDL book: https://www.physicsbaseddeeplearning.org/ (or as PDF: https://arxiv.org/pdf/2109.05237.pdf)
 
 ![An overview of categories of physics-based deep learning methods](resources/physics-based-deep-learning-overview.jpg)
 
