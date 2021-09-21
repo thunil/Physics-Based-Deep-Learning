@@ -123,6 +123,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Reconstructing High-resolution Turbulent Flows Using Physics-Guided Neural Networks ,
+PDF: <https://arxiv.org/pdf/2109.03327>
+
 Towards extraction of orthogonal and parsimonious non-linear modes from turbulent flows , 
 PDF: <https://arxiv.org/pdf/2109.01514.pdf>
 
