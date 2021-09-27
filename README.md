@@ -123,6 +123,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Assessments of model-form uncertainty using Gaussian stochastic weight averaging for fluid-flow regression , 
+PDF: <https://arxiv.org/pdf/2109.08248.pdf>
+
 Reconstructing High-resolution Turbulent Flows Using Physics-Guided Neural Networks ,
 PDF: <https://arxiv.org/pdf/2109.03327>
 
