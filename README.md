@@ -138,6 +138,9 @@ PDF: <https://arxiv.org/pdf/2109.01514.pdf>
 SURFNet: Super-resolution of Turbulent Flows with Transfer Learning using Small Datasets , 
 PDF: <https://arxiv.org/pdf/2108.07667.pdf>
 
+Deep Learning for Reduced Order Modelling and Efficient Temporal Evolution of Fluid Simulations ,
+PDF: <https://arxiv.org/pdf/2107.04556.pdf>
+
 Learning Incompressible Fluid Dynamics from Scratch - Towards Fast, Differentiable Fluid Models that Generalize , 
 PDF: <https://cg.cs.uni-bonn.de/aigaion2root/attachments/Paper.pdf> 
 
