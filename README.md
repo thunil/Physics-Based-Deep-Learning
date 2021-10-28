@@ -344,6 +344,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Model Reduction for the Material Point Method via Learning the Deformation map and its Spatial-temporal Gradients
+Projeect: <https://peterchencyc.com/projects/rom4mpm/>
+
 PhysGNN: A Physics–Driven Graph Neural Network Based Model for Predicting Soft Tissue Deformation in Image–Guided Neurosurgery ,
 PDF: <https://arxiv.org/pdf/2109.04352.pdf>
 
