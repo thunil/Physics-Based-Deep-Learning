@@ -344,8 +344,11 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
-Model Reduction for the Material Point Method via Learning the Deformation map and its Spatial-temporal Gradients
-Projeect: <https://peterchencyc.com/projects/rom4mpm/>
+Learning Material Parameters and Hydrodynamics of Soft Robotic Fish via Differentiable Simulation , 
+PDF: <https://arxiv.org/abs/2109.14855>
+
+Model Reduction for the Material Point Method via Learning the Deformation map and its Spatial-temporal Gradients , 
+Project: <https://peterchencyc.com/projects/rom4mpm/>
 
 PhysGNN: A Physics–Driven Graph Neural Network Based Model for Predicting Soft Tissue Deformation in Image–Guided Neurosurgery ,
 PDF: <https://arxiv.org/pdf/2109.04352.pdf>
@@ -522,6 +525,7 @@ tensorFlowFoam: <https://github.com/argonne-lcf/TensorFlowFoam>
 julia-sciml: <https://julialang.org/jsoc/gsoc/sciml/>
 
 gradsim: <https://gradsim.github.io>
+
 
 # Concluding Remarks
 
