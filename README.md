@@ -344,6 +344,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Differentiable Simulation of Soft Multi-body Systems , 
+PDF: <http://vladlen.info/papers/diffsoft.pdf>
+
 Learning Material Parameters and Hydrodynamics of Soft Robotic Fish via Differentiable Simulation , 
 PDF: <https://arxiv.org/abs/2109.14855>
 
