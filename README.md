@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Physical Gradients for Deep Learning , 
+PDF: <https://arxiv.org/abs/2109.15048>
+
 High-accuracy transonic RANS Flow Predictions with Deep Neural Networks ,
 PDF: <https://arxiv.org/pdf/2109.02183>
 
