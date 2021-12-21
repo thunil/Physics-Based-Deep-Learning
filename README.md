@@ -129,6 +129,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Deep Learning for Stability Analysis of a Freely Vibrating Sphere at Moderate Reynolds Number , 
+PDF: <https://arxiv.org/pdf/2112.09858.pdf>
+
 Predicting High-Resolution Turbulence Details in Space and Time , 
 PDF: <http://geometry.caltech.edu/pubs/BWDL21.pdf>
 
