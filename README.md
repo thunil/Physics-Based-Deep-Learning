@@ -353,6 +353,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Constraint-based graph network simulator , 
+PDF: <https://arxiv.org/abs/2112.09161>
+
 Differentiable Simulation of Soft Multi-body Systems , 
 PDF: <http://vladlen.info/papers/diffsoft.pdf>
 
