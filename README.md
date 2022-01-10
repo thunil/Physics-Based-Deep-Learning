@@ -129,6 +129,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Learned Coarse Models for Efficient Turbulence Simulation , 
+PDF: <https://arxiv.org/pdf/2112.15275.pdf>
+
 Deep Learning for Stability Analysis of a Freely Vibrating Sphere at Moderate Reynolds Number , 
 PDF: <https://arxiv.org/pdf/2112.09858.pdf>
 
