@@ -129,6 +129,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Inferring Turbulent Parameters via Machine Learning , 
+PDF: <https://arxiv.org/abs/2201.00732>
+
 Learned Coarse Models for Efficient Turbulence Simulation , 
 PDF: <https://arxiv.org/pdf/2112.15275.pdf>
 
