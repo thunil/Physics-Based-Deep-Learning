@@ -129,6 +129,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Predicting Physics in Mesh-reduced Space with Temporal Attention , 
+PDF: <https://arxiv.org/pdf/2201.09113.pdf>
+
 Inferring Turbulent Parameters via Machine Learning , 
 PDF: <https://arxiv.org/abs/2201.00732>
 
