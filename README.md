@@ -362,6 +362,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Fine-grained differentiable physics: a yarn-level model for fabrics , 
+PDF: <https://arxiv.org/abs/2202.00504> 
+
 Constraint-based graph network simulator , 
 PDF: <https://arxiv.org/abs/2112.09161>
 
