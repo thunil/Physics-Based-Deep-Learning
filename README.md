@@ -129,6 +129,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Deep learning fluid flow reconstruction around arbitrary two-dimensional objects from sparse sensors using conformal mappings , 
+PDF: <https://arxiv.org/pdf/2202.03798.pdf>
+
 Predicting Physics in Mesh-reduced Space with Temporal Attention , 
 PDF: <https://arxiv.org/pdf/2201.09113.pdf>
 
