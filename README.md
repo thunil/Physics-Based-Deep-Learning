@@ -365,6 +365,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+A Survey on Machine Learning Approaches for Modelling Intuitive Physics , 
+PDF: <https://arxiv.org/pdf/2202.06481>
+
 Fine-grained differentiable physics: a yarn-level model for fabrics , 
 PDF: <https://arxiv.org/abs/2202.00504> 
 
