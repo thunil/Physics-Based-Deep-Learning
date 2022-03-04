@@ -129,6 +129,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields , 
+PDF: <https://arxiv.org/pdf/2203.01762.pdf>
+
 Deep learning fluid flow reconstruction around arbitrary two-dimensional objects from sparse sensors using conformal mappings , 
 PDF: <https://arxiv.org/pdf/2202.03798.pdf>
 
