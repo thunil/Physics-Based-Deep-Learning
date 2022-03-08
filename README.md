@@ -534,6 +534,9 @@ PDF: <https://arxiv.org/pdf/1612.00222>
 
 ## Surveys and Overview Articles
 
+Physics-Guided Deep Learning for Dynamical Systems: A Survey , 
+PDF: <https://arxiv.org/abs/2107.01272>
+
 Integrating Physics-Based Modeling with Machine Learning: A Survey , 
 PDF: <https://arxiv.org/pdf/2003.04919>
 
