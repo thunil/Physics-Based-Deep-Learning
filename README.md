@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Half-Inverse Gradients for Physical Deep Learning , 
+PDF: <https://arxiv.org/abs/2203.10131>
+
 Hybrid Neural Network PDE Solvers for Reacting Flows , 
 PDF: <https://arxiv.org/abs/2111.11185>
 
