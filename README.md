@@ -57,6 +57,9 @@ learning in general.
 Half-Inverse Gradients for Physical Deep Learning , 
 PDF: <https://arxiv.org/abs/2203.10131>
 
+Realistic galaxy images and improved robustness in machine learning tasks from generative modelling , 
+PDF: <https://arxiv.org/abs/2203.11956>
+
 Hybrid Neural Network PDE Solvers for Reacting Flows , 
 PDF: <https://arxiv.org/abs/2111.11185>
 
