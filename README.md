@@ -384,7 +384,7 @@ Constraint-based graph network simulator ,
 PDF: <https://arxiv.org/abs/2112.09161>
 
 Differentiable Simulation of Soft Multi-body Systems , 
-PDF: <http://vladlen.info/papers/diffsoft.pdf>
+PDF: <https://arxiv.org/abs/2205.01758>
 
 Learning Material Parameters and Hydrodynamics of Soft Robotic Fish via Differentiable Simulation , 
 PDF: <https://arxiv.org/abs/2109.14855>
