@@ -135,6 +135,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Leveraging Stochastic Predictions of Bayesian Neural Networks for Fluid Simulations , 
+PDF: <https://arxiv.org/abs/2205.01222>
+
 NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields , 
 PDF: <https://arxiv.org/pdf/2203.01762.pdf>
 
