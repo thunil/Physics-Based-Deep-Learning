@@ -55,16 +55,16 @@ learning in general.
 ## I15 Physics-based Deep Learning Links
 
 Half-Inverse Gradients for Physical Deep Learning , 
-PDF: <https://arxiv.org/abs/2203.10131>
+PDF: <https://arxiv.org/pdf/2203.10131>
 
 Realistic galaxy images and improved robustness in machine learning tasks from generative modelling , 
-PDF: <https://arxiv.org/abs/2203.11956>
+PDF: <https://arxiv.org/pdf/2203.11956>
 
 Hybrid Neural Network PDE Solvers for Reacting Flows , 
-PDF: <https://arxiv.org/abs/2111.11185>
+PDF: <https://arxiv.org/pdf/2111.11185>
 
 Physical Gradients for Deep Learning , 
-PDF: <https://arxiv.org/abs/2109.15048>
+PDF: <https://arxiv.org/pdf/2109.15048>
 
 High-accuracy transonic RANS Flow Predictions with Deep Neural Networks ,
 PDF: <https://arxiv.org/pdf/2109.02183>
@@ -136,7 +136,7 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 ## Additional Links for Fluids
 
 Leveraging Stochastic Predictions of Bayesian Neural Networks for Fluid Simulations , 
-PDF: <https://arxiv.org/abs/2205.01222>
+PDF: <https://arxiv.org/pdf/2205.01222>
 
 NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields , 
 PDF: <https://arxiv.org/pdf/2203.01762.pdf>
@@ -148,7 +148,7 @@ Predicting Physics in Mesh-reduced Space with Temporal Attention ,
 PDF: <https://arxiv.org/pdf/2201.09113.pdf>
 
 Inferring Turbulent Parameters via Machine Learning , 
-PDF: <https://arxiv.org/abs/2201.00732>
+PDF: <https://arxiv.org/pdf/2201.00732>
 
 Learned Coarse Models for Efficient Turbulence Simulation , 
 PDF: <https://arxiv.org/pdf/2112.15275.pdf>
@@ -377,20 +377,23 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics , 
+PDF: <https://arxiv.org/pdf/2205.02835.pdf>
+
 A Survey on Machine Learning Approaches for Modelling Intuitive Physics , 
 PDF: <https://arxiv.org/pdf/2202.06481>
 
 Fine-grained differentiable physics: a yarn-level model for fabrics , 
-PDF: <https://arxiv.org/abs/2202.00504> 
+PDF: <https://arxiv.org/pdf/2202.00504> 
 
 Constraint-based graph network simulator , 
-PDF: <https://arxiv.org/abs/2112.09161>
+PDF: <https://arxiv.org/pdf/2112.09161>
 
 Differentiable Simulation of Soft Multi-body Systems , 
-PDF: <https://arxiv.org/abs/2205.01758>
+PDF: <https://arxiv.org/pdf/2205.01758>
 
 Learning Material Parameters and Hydrodynamics of Soft Robotic Fish via Differentiable Simulation , 
-PDF: <https://arxiv.org/abs/2109.14855>
+PDF: <https://arxiv.org/pdf/2109.14855>
 
 Model Reduction for the Material Point Method via Learning the Deformation map and its Spatial-temporal Gradients , 
 Project: <https://peterchencyc.com/projects/rom4mpm/>
@@ -544,7 +547,7 @@ PDF: <https://arxiv.org/pdf/1612.00222>
 ## Surveys and Overview Articles
 
 Physics-Guided Deep Learning for Dynamical Systems: A Survey , 
-PDF: <https://arxiv.org/abs/2107.01272>
+PDF: <https://arxiv.org/pdf/2107.01272>
 
 Integrating Physics-Based Modeling with Machine Learning: A Survey , 
 PDF: <https://arxiv.org/pdf/2003.04919>
