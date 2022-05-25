@@ -219,6 +219,9 @@ PDF: <https://arxiv.org/pdf/2008.06731>
 Learned discretizations for passive scalar advection in a 2-D turbulent flow ,
 PDF: <https://arxiv.org/pdf/2004.05477>
 
+PhyGeoNet: Physics-Informed Geometry-Adaptive Convolutional Neural Networks for Solving Parameterized Steady-State PDEs on Irregular Domain , 
+PDF: <https://arxiv.org/pdf/2004.13145>
+
 Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction , 
 PDF: <https://proceedings.icml.cc/static/paper_files/icml/2020/6414-Paper.pdf>
 
