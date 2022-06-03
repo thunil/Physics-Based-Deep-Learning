@@ -389,6 +389,9 @@ PDF: <https://arxiv.org/pdf/2202.06481>
 Fine-grained differentiable physics: a yarn-level model for fabrics , 
 PDF: <https://arxiv.org/pdf/2202.00504> 
 
+Accurately Solving Rod Dynamics with Graph Learning ,
+PDF: <http://computationalsciences.org/publications/shao-2021-physical-systems-graph-learning/shao-2021-physical-systems-graph-learning.pdf>
+
 Constraint-based graph network simulator , 
 PDF: <https://arxiv.org/pdf/2112.09161>
 
