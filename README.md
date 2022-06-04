@@ -302,6 +302,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Learning to Solve PDE-constrained Inverse Problems with Graph Networks , 
+Project: <https://cyanzhao42.github.io/LearnInverseProblem>
+
 Physics-Aware Downsampling with Deep Learning for Scalable Flood Modeling , 
 PDF: <https://arxiv.org/pdf/2106.07218v1.pdf>
 
