@@ -135,6 +135,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+A neural network multigrid solver for the Navier-Stokes equations ,
+PDF: <https://arxiv.org/pdf/2008.11520.pdf>
+
 Leveraging Stochastic Predictions of Bayesian Neural Networks for Fluid Simulations , 
 PDF: <https://arxiv.org/pdf/2205.01222>
 
