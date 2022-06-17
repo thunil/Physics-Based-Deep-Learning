@@ -305,6 +305,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+CROM: Continuous Reduced-Order Modeling of PDEs Using Implicit Neural Representations ,
+PDF: <https://arxiv.org/pdf/2206.02607.pdf>
+
 Learning to Solve PDE-constrained Inverse Problems with Graph Networks , 
 Project: <https://cyanzhao42.github.io/LearnInverseProblem>
 
