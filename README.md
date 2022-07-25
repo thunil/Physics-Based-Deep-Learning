@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Learned Turbulence Modelling with Differentiable Fluid Solvers , 
+PDF: <https://arxiv.org/pdf/2202.06988>
+
 Half-Inverse Gradients for Physical Deep Learning , 
 PDF: <https://arxiv.org/pdf/2203.10131>
 
@@ -134,6 +137,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 
 ## Additional Links for Fluids
+
+Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data , 
+Project: <https://people.mpi-inf.mpg.de/~mchu/projects/PI-NeRF/>
 
 A neural network multigrid solver for the Navier-Stokes equations ,
 PDF: <https://arxiv.org/pdf/2008.11520.pdf>
