@@ -138,11 +138,11 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Deep Reinforcement Learning for Turbulence Modeling in Large Eddy Simulations ,
+PDF: <https://arxiv.org/abs/2206.11038>
+
 Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data , 
 Project: <https://people.mpi-inf.mpg.de/~mchu/projects/PI-NeRF/>
-
-A neural network multigrid solver for the Navier-Stokes equations ,
-PDF: <https://arxiv.org/pdf/2008.11520.pdf>
 
 Leveraging Stochastic Predictions of Bayesian Neural Networks for Fluid Simulations , 
 PDF: <https://arxiv.org/pdf/2205.01222>
@@ -221,6 +221,9 @@ PDF: <https://arxiv.org/pdf/2010.00072>
 
 Learning to swim in potential flow , 
 PDF: <https://arxiv.org/pdf/2009.14280>
+
+A neural network multigrid solver for the Navier-Stokes equations ,
+PDF: <https://arxiv.org/pdf/2008.11520.pdf>
 
 Enhanced data efficiency using deep neural networks and Gaussian processes for aerodynamic design optimization , 
 PDF: <https://arxiv.org/pdf/2008.06731>
