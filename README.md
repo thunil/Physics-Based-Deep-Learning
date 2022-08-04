@@ -314,6 +314,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Discovering nonlinear pde from scarce data with physics encoded learning , 
+PDF: <https://arxiv.org/pdf/2201.12354.pdf>
+
 CROM: Continuous Reduced-Order Modeling of PDEs Using Implicit Neural Representations ,
 PDF: <https://arxiv.org/pdf/2206.02607.pdf>
 
