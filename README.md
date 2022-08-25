@@ -404,6 +404,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics , 
 PDF: <https://arxiv.org/pdf/2205.02835.pdf>
 
+Message Passing Neural PDE Solvers ,
+PDF: <https://arxiv.org/pdf/2202.03376>
+
 A Survey on Machine Learning Approaches for Modelling Intuitive Physics , 
 PDF: <https://arxiv.org/pdf/2202.06481>
 
