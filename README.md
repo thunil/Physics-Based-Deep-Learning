@@ -314,6 +314,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Discovery of partial differential equations from highly noisy and sparse data with physics-informed information criterion , 
+PDF: <https://arxiv.org/pdf/2208.03322>
+
 Discovering nonlinear pde from scarce data with physics encoded learning , 
 PDF: <https://arxiv.org/pdf/2201.12354.pdf>
 
