@@ -138,6 +138,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Lagrangian Large Eddy Simulations via Physics Informed Machine Learning , 
+PDF: <https://arxiv.org/pdf/2207.04012.pdf>
+
 Deep Reinforcement Learning for Turbulence Modeling in Large Eddy Simulations ,
 PDF: <https://arxiv.org/abs/2206.11038>
 
