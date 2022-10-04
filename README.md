@@ -138,6 +138,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields , 
+Project: <https://github.com/syguan96/NeuroFluid>
+
 Lagrangian Large Eddy Simulations via Physics Informed Machine Learning , 
 PDF: <https://arxiv.org/pdf/2207.04012.pdf>
 
