@@ -410,6 +410,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs , 
+PDF: <https://arxiv.org/abs/2206.11990>
+
 Symplectically Integrated Symbolic Regression of Hamiltonian Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/2209.01521.pdf>
 
