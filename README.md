@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Guaranteed Conservation of Momentum for Learning Particle-based Fluid Dynamics , 
+Project: <https://github.com/tum-pbs/DMCF>
+
 Learned Turbulence Modelling with Differentiable Fluid Solvers , 
 PDF: <https://arxiv.org/pdf/2202.06988>
 
@@ -66,8 +69,8 @@ PDF: <https://arxiv.org/pdf/2203.11956>
 Hybrid Neural Network PDE Solvers for Reacting Flows , 
 PDF: <https://arxiv.org/pdf/2111.11185>
 
-Physical Gradients for Deep Learning , 
-PDF: <https://arxiv.org/pdf/2109.15048>
+Scale-invariant Learning by Physics Inversion (formerly "Physical Gradients") ,
+Project: <https://github.com/tum-pbs/SIP>
 
 High-accuracy transonic RANS Flow Predictions with Deep Neural Networks ,
 PDF: <https://arxiv.org/pdf/2109.02183>
