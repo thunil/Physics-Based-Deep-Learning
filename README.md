@@ -413,6 +413,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Breaking Bad: A Dataset for Geometric Fracture and Reassembly , 
+Project: <https://arxiv.org/abs/2210.11463>
+
 Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs , 
 PDF: <https://arxiv.org/abs/2206.11990>
 
