@@ -141,6 +141,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Combined space-time reduced-order model with 3D deep convolution for extrapolating fluid dynamics , 
+PDF: <https://arxiv.org/abs/2211.00307>
+
 NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields , 
 Project: <https://github.com/syguan96/NeuroFluid>
 
