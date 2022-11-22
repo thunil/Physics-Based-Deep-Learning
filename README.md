@@ -63,6 +63,9 @@ PDF: <https://arxiv.org/pdf/2202.06988>
 Half-Inverse Gradients for Physical Deep Learning , 
 PDF: <https://arxiv.org/pdf/2203.10131>
 
+Reviving Autoencoder Pretraining (Previously: Data-driven Regularization via Racecar Training for Generalizing Neural Networks), 
+Project: <https://github.com/tum-pbs/racecar>
+
 Realistic galaxy images and improved robustness in machine learning tasks from generative modelling , 
 PDF: <https://arxiv.org/pdf/2203.11956>
 
@@ -89,9 +92,6 @@ PDF: <https://arxiv.org/pdf/2009.14339>
 
 Purely data-driven medium-range weather forecasting achieves comparable skill to physical models at similar resolution , 
 PDF: <https://arxiv.org/pdf/2008.08626>
-
-Data-driven Regularization via Racecar Training for Generalizing Neural Networks , 
-Project: <https://ge.in.tum.de/publications/2020-xie-racecar/>
 
 Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow , 
 Project: <https://ge.in.tum.de/publications/2020-lssubdiv-wiewel/>
