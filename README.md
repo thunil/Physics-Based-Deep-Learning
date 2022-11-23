@@ -141,6 +141,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Modelling spatiotemporal turbulent dynamics with the convolutional autoencoder echo state network , 
+PDF: <https://arxiv.org/abs/2211.11379>
+
 Combined space-time reduced-order model with 3D deep convolution for extrapolating fluid dynamics , 
 PDF: <https://arxiv.org/abs/2211.00307>
 
