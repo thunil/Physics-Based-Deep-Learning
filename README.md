@@ -141,6 +141,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Exploring Physical Latent Spaces for Deep Learning , 
+PDF: <https://arxiv.org/abs/2211.11298>
+
 Modelling spatiotemporal turbulent dynamics with the convolutional autoencoder echo state network , 
 PDF: <https://arxiv.org/abs/2211.11379>
 
