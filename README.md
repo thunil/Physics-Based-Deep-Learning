@@ -422,6 +422,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Scalable Bayesian Uncertainty Quantification for Neural Network Potentials: Promise and Pitfalls ,
+PDF: <https://arxiv.org/abs/2212.07959>
+
 Breaking Bad: A Dataset for Geometric Fracture and Reassembly , 
 Project: <https://arxiv.org/abs/2210.11463>
 
