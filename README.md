@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Score Matching via Differentiable Physics , 
+PDF: <https://arxiv.org/abs/2301.10250>
+
 Guaranteed Conservation of Momentum for Learning Particle-based Fluid Dynamics , 
 Project: <https://github.com/tum-pbs/DMCF>
 
