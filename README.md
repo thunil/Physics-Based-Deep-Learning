@@ -144,6 +144,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Multi-scale rotation-equivariant graph neural networks for unsteady Eulerian fluid dynamics , 
+WWW: https://aip.scitation.org/doi/10.1063/5.0097679
+
 AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions , 
 PDF: <https://arxiv.org/abs/2212.07564>
 
