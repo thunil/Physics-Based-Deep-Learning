@@ -341,6 +341,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Learning from Predictions: Fusing Training and Autoregressive Inference for Long-Term Spatiotemporal Forecasts , 
+PDF: <https://arxiv.org/pdf/2302.11101.pdf>
+
 Evolve Smoothly, Fit Consistently: Learning Smooth Latent Dynamics For Advection-Dominated Systems ,
 PDF: <https://arxiv.org/pdf/2301.10391>
 
