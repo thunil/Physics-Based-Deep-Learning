@@ -437,6 +437,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Combining Slow and Fast: Complementary Filtering for Dynamics Learning , 
+PDF: <https://arxiv.org/pdf/2302.13754.pdf>
+
 Scalable Bayesian Uncertainty Quantification for Neural Network Potentials: Promise and Pitfalls ,
 PDF: <https://arxiv.org/abs/2212.07959>
 
