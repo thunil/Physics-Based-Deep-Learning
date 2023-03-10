@@ -341,6 +341,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Noise-aware physics-informed machine learning for robust PDE discovery , 
+PDF: <https://iopscience.iop.org/article/10.1088/2632-2153/acb1f0/pdf>
+
 Learning from Predictions: Fusing Training and Autoregressive Inference for Long-Term Spatiotemporal Forecasts , 
 PDF: <https://arxiv.org/pdf/2302.11101.pdf>
 
