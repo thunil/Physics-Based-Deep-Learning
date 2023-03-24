@@ -341,6 +341,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Learning to Accelerate Partial Differential Equations via Latent Global Evolution , 
+Project: <http://snap.stanford.edu/le_pde/>
+
 Noise-aware physics-informed machine learning for robust PDE discovery , 
 PDF: <https://iopscience.iop.org/article/10.1088/2632-2153/acb1f0/pdf>
 
