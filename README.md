@@ -341,6 +341,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Machine Learning for Partial Differential Equations , 
+PDF: <https://arxiv.org/pdf/2303.17078.pdf>
+
 Learning to Accelerate Partial Differential Equations via Latent Global Evolution , 
 Project: <http://snap.stanford.edu/le_pde/>
 
