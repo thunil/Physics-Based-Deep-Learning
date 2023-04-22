@@ -144,6 +144,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Inferring Fluid Dynamics via Inverse Rendering , 
+PDF: <https://arxiv.org/abs/2304.04446>
+
 Multi-scale rotation-equivariant graph neural networks for unsteady Eulerian fluid dynamics , 
 WWW: https://aip.scitation.org/doi/10.1063/5.0097679
 
