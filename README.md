@@ -144,6 +144,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Reconstructing Turbulent Flows Using Physics-Aware Spatio-Temporal Dynamics and Test-Time Refinement , 
+PDF: <https://arxiv.org/abs/2304.12130>
+
 Inferring Fluid Dynamics via Inverse Rendering , 
 PDF: <https://arxiv.org/abs/2304.04446>
 
