@@ -144,6 +144,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Machine learning enhanced real-time aerodynamic forces prediction based on sparse pressure sensor inputs , 
+PDF: <https://arxiv.org/pdf/2305.09199>
+
 Reconstructing Turbulent Flows Using Physics-Aware Spatio-Temporal Dynamics and Test-Time Refinement , 
 PDF: <https://arxiv.org/abs/2304.12130>
 
