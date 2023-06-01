@@ -154,7 +154,10 @@ Inferring Fluid Dynamics via Inverse Rendering ,
 PDF: <https://arxiv.org/abs/2304.04446>
 
 Multi-scale rotation-equivariant graph neural networks for unsteady Eulerian fluid dynamics , 
-WWW: https://aip.scitation.org/doi/10.1063/5.0097679
+WWW: <https://aip.scitation.org/doi/10.1063/5.0097679>
+
+Physics-Embedded Neural Networks: Graph Neural PDE Solvers with Mixed Boundary Conditions , 
+PDF: <https://arxiv.org/abs/2205.11912>
 
 AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions , 
 PDF: <https://arxiv.org/abs/2212.07564>
@@ -454,6 +457,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
+
+Efficient Learning of Mesh-Based Physical Simulation with Bi-Stride Multi-Scale Graph Neural Network , 
+PDF: <https://arxiv.org/pdf/2210.02573.pdf>
 
 Combining Slow and Fast: Complementary Filtering for Dynamics Learning , 
 PDF: <https://arxiv.org/pdf/2302.13754.pdf>
