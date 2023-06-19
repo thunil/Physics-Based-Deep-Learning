@@ -144,6 +144,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Reduced-order modeling of fluid flows with transformers ,
+PDF: <https://pubs.aip.org/aip/pof/article/35/5/057126/2891586>
+
 Machine learning enhanced real-time aerodynamic forces prediction based on sparse pressure sensor inputs , 
 PDF: <https://arxiv.org/pdf/2305.09199>
 
