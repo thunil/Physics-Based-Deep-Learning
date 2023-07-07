@@ -461,6 +461,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Stabilized Neural Differential Equations for Learning Constrained Dynamics , 
+PDF: <https://arxiv.org/abs/2306.09739>
+
 Efficient Learning of Mesh-Based Physical Simulation with Bi-Stride Multi-Scale Graph Neural Network , 
 PDF: <https://arxiv.org/pdf/2210.02573.pdf>
 
