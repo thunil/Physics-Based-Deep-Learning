@@ -144,6 +144,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Differentiable Turbulence , 
+PDF: <https://arxiv.org/abs/2307.03683>
+
 Reduced-order modeling of fluid flows with transformers ,
 PDF: <https://pubs.aip.org/aip/pof/article/35/5/057126/2891586>
 
