@@ -324,6 +324,9 @@ PDF: <https://www.sciencedirect.com/science/article/pii/S0021999119306151>
 Computing interface curvature from volume fractions: A machine learning approach , 
 PDF: <https://www.sciencedirect.com/science/article/abs/pii/S0045793019302282>
 
+Machine learning the kinematics of spherical particles in fluid flows , 
+PDF: <https://sandlab.mit.edu/wp-content/uploads/18_JFM.pdf>
+
 Deep Neural Networks for Data-Driven Turbulence Models , 
 PDF: <https://export.arxiv.org/pdf/1806.04482>
 
