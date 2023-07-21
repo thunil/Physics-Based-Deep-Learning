@@ -467,6 +467,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Neural stream functions , 
+PDF: <https://arxiv.org/pdf/2307.08142.pdf>
+
 Stabilized Neural Differential Equations for Learning Constrained Dynamics , 
 PDF: <https://arxiv.org/abs/2306.09739>
 
