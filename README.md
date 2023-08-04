@@ -55,7 +55,7 @@ learning in general.
 ## I15 Physics-based Deep Learning Links
 
 Score Matching via Differentiable Physics , 
-PDF: <https://arxiv.org/abs/2301.10250>
+PDF: <https://arxiv.org/pdf/2301.10250>
 
 Guaranteed Conservation of Momentum for Learning Particle-based Fluid Dynamics , 
 Project: <https://github.com/tum-pbs/DMCF>
@@ -144,8 +144,11 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+A probabilistic, data-driven closure model for RANS simulations with aleatoric, model uncertainty , 
+PDF: <https://arxiv.org/pdf/2307.02432>
+
 Differentiable Turbulence , 
-PDF: <https://arxiv.org/abs/2307.03683>
+PDF: <https://arxiv.org/pdf/2307.03683>
 
 Reduced-order modeling of fluid flows with transformers ,
 PDF: <https://pubs.aip.org/aip/pof/article/35/5/057126/2891586>
@@ -154,37 +157,37 @@ Machine learning enhanced real-time aerodynamic forces prediction based on spars
 PDF: <https://arxiv.org/pdf/2305.09199>
 
 Reconstructing Turbulent Flows Using Physics-Aware Spatio-Temporal Dynamics and Test-Time Refinement , 
-PDF: <https://arxiv.org/abs/2304.12130>
+PDF: <https://arxiv.org/pdf/2304.12130>
 
 Inferring Fluid Dynamics via Inverse Rendering , 
-PDF: <https://arxiv.org/abs/2304.04446>
+PDF: <https://arxiv.org/pdf/2304.04446>
 
 Multi-scale rotation-equivariant graph neural networks for unsteady Eulerian fluid dynamics , 
 WWW: <https://aip.scitation.org/doi/10.1063/5.0097679>
 
 Physics-Embedded Neural Networks: Graph Neural PDE Solvers with Mixed Boundary Conditions , 
-PDF: <https://arxiv.org/abs/2205.11912>
+PDF: <https://arxiv.org/pdf/2205.11912>
 
 AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions , 
-PDF: <https://arxiv.org/abs/2212.07564>
+PDF: <https://arxiv.org/pdf/2212.07564>
 
 Exploring Physical Latent Spaces for Deep Learning , 
-PDF: <https://arxiv.org/abs/2211.11298>
+PDF: <https://arxiv.org/pdf/2211.11298>
 
 Modelling spatiotemporal turbulent dynamics with the convolutional autoencoder echo state network , 
-PDF: <https://arxiv.org/abs/2211.11379>
+PDF: <https://arxiv.org/pdf/2211.11379>
 
 Combined space-time reduced-order model with 3D deep convolution for extrapolating fluid dynamics , 
-PDF: <https://arxiv.org/abs/2211.00307>
+PDF: <https://arxiv.org/pdf/2211.00307>
 
 NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields , 
 Project: <https://github.com/syguan96/NeuroFluid>
 
 Lagrangian Large Eddy Simulations via Physics Informed Machine Learning , 
-PDF: <https://arxiv.org/pdf/2207.04012.pdf>
+PDF: <https://arxiv.org/pdf/2207.04012>
 
 Deep Reinforcement Learning for Turbulence Modeling in Large Eddy Simulations ,
-PDF: <https://arxiv.org/abs/2206.11038>
+PDF: <https://arxiv.org/pdf/2206.11038>
 
 Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data , 
 Project: <https://people.mpi-inf.mpg.de/~mchu/projects/PI-NeRF/>
@@ -471,7 +474,7 @@ Neural stream functions ,
 PDF: <https://arxiv.org/pdf/2307.08142.pdf>
 
 Stabilized Neural Differential Equations for Learning Constrained Dynamics , 
-PDF: <https://arxiv.org/abs/2306.09739>
+PDF: <https://arxiv.org/pdf/2306.09739>
 
 Efficient Learning of Mesh-Based Physical Simulation with Bi-Stride Multi-Scale Graph Neural Network , 
 PDF: <https://arxiv.org/pdf/2210.02573.pdf>
@@ -480,13 +483,13 @@ Combining Slow and Fast: Complementary Filtering for Dynamics Learning ,
 PDF: <https://arxiv.org/pdf/2302.13754.pdf>
 
 Scalable Bayesian Uncertainty Quantification for Neural Network Potentials: Promise and Pitfalls ,
-PDF: <https://arxiv.org/abs/2212.07959>
+PDF: <https://arxiv.org/pdf/2212.07959>
 
 Breaking Bad: A Dataset for Geometric Fracture and Reassembly , 
-Project: <https://arxiv.org/abs/2210.11463>
+Project: <https://arxiv.org/pdf/2210.11463>
 
 Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs , 
-PDF: <https://arxiv.org/abs/2206.11990>
+PDF: <https://arxiv.org/pdf/2206.11990>
 
 Symplectically Integrated Symbolic Regression of Hamiltonian Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/2209.01521.pdf>
