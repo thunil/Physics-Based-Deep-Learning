@@ -144,11 +144,15 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+
 A probabilistic, data-driven closure model for RANS simulations with aleatoric, model uncertainty , 
 PDF: <https://arxiv.org/pdf/2307.02432>
 
 Differentiable Turbulence , 
 PDF: <https://arxiv.org/pdf/2307.03683>
+
+Super-resolving sparse observations in partial differential equations: A physics-constrained convolutional neural network approach ,
+PDF: <https://arxiv.org/abs/2306.10990>
 
 Reduced-order modeling of fluid flows with transformers ,
 PDF: <https://pubs.aip.org/aip/pof/article/35/5/057126/2891586>
