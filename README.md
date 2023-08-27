@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Unsteady Cylinder Wakes from Arbitrary Bodies with Differentiable Physics-Assisted Neural Network , 
+PDF: <https://arxiv.org/pdf/2308.04296>
+
 Score Matching via Differentiable Physics , 
 PDF: <https://arxiv.org/pdf/2301.10250>
 
