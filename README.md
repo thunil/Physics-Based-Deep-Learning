@@ -148,6 +148,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 ## Additional Links for Fluids
 
 
+Physics-guided training of GAN to improve accuracy in airfoil design synthesis , 
+PDF: <https://arxiv.org/pdf/2308.10038>
+
 A probabilistic, data-driven closure model for RANS simulations with aleatoric, model uncertainty , 
 PDF: <https://arxiv.org/pdf/2307.02432>
 
