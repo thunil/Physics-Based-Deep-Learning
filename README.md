@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Turbulent Flow Simulation using Autoregressive Conditional Diffusion Models , 
+PDF: <https://arxiv.org/pdf/2309.01745> 
+
 Unsteady Cylinder Wakes from Arbitrary Bodies with Differentiable Physics-Assisted Neural Network , 
 PDF: <https://arxiv.org/pdf/2308.04296>
 
@@ -158,7 +161,7 @@ Differentiable Turbulence ,
 PDF: <https://arxiv.org/pdf/2307.03683>
 
 Super-resolving sparse observations in partial differential equations: A physics-constrained convolutional neural network approach ,
-PDF: <https://arxiv.org/abs/2306.10990>
+PDF: <https://arxiv.org/pdf/2306.10990>
 
 Reduced-order modeling of fluid flows with transformers ,
 PDF: <https://pubs.aip.org/aip/pof/article/35/5/057126/2891586>
