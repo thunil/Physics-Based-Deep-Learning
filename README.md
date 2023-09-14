@@ -405,6 +405,9 @@ PDF: <https://arxiv.org/pdf/2206.02607.pdf>
 Learning to Solve PDE-constrained Inverse Problems with Graph Networks , 
 Project: <https://cyanzhao42.github.io/LearnInverseProblem>
 
+CAN-PINN: A Fast Physics-Informed Neural Network Based on Coupled-Automatic-Numerical Differentiation Method , 
+PDF: <https://arxiv.org/pdf/2110.15832>
+
 Physics-Aware Downsampling with Deep Learning for Scalable Flood Modeling , 
 PDF: <https://arxiv.org/pdf/2106.07218v1.pdf>
 
