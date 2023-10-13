@@ -150,6 +150,8 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+CFDBench: A Comprehensive Benchmark for Machine Learning Methods in Fluid Dynamics , 
+PDF: <https://arxiv.org/pdf/2310.05963.pdf>
 
 Physics-guided training of GAN to improve accuracy in airfoil design synthesis , 
 PDF: <https://arxiv.org/pdf/2308.10038>
