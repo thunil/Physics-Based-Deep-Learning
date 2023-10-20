@@ -714,7 +714,7 @@ jax-md: <https://github.com/google/jax-md>
 
 tensorFlowFoam: <https://github.com/argonne-lcf/TensorFlowFoam>
 
-julia-sciml: <https://julialang.org/jsoc/gsoc/sciml/>
+julia-sciml: <https://sciml.ai>
 
 gradsim: <https://gradsim.github.io>
 
