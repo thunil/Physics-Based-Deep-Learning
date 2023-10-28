@@ -488,6 +488,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+A neural-preconditioned poisson solver for mixed dirichlet and neumann boundary conditions ,
+PDF: <https://arxiv.org/pdf/2310.00177.pdf>
+
 Neural stream functions , 
 PDF: <https://arxiv.org/pdf/2307.08142.pdf>
 
