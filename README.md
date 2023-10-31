@@ -88,7 +88,7 @@ High-accuracy transonic RANS Flow Predictions with Deep Neural Networks ,
 PDF: <https://arxiv.org/pdf/2109.02183>
 
 Learning Meaningful Controls for Fluids ,
-Project: <https://people.mpi-inf.mpg.de/~mchu/gvv-den2vel/den2vel.html>
+Project: <https://rachelcmy.github.io/den2vel/>
 
 Global Transport for Fluid Reconstruction with Learned Self-Supervision ,
 Project: <https://ge.in.tum.de/publications/2021-franz-globtrans/>
