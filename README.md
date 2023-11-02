@@ -150,6 +150,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+LagrangeBench: A Lagrangian Fluid Mechanics Benchmarking Suite , 
+Project: <https://github.com/tumaer/lagrangebench>
+
 CFDBench: A Comprehensive Benchmark for Machine Learning Methods in Fluid Dynamics , 
 PDF: <https://arxiv.org/pdf/2310.05963.pdf>
 
@@ -205,7 +208,7 @@ Deep Reinforcement Learning for Turbulence Modeling in Large Eddy Simulations ,
 PDF: <https://arxiv.org/pdf/2206.11038>
 
 Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data , 
-Project: <https://people.mpi-inf.mpg.de/~mchu/projects/PI-NeRF/>
+Project: <https://rachelcmy.github.io/pinf_smoke/>
 
 Leveraging Stochastic Predictions of Bayesian Neural Networks for Fluid Simulations , 
 PDF: <https://arxiv.org/pdf/2205.01222>
