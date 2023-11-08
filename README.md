@@ -216,6 +216,9 @@ PDF: <https://arxiv.org/pdf/2205.01222>
 NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields , 
 PDF: <https://arxiv.org/pdf/2203.01762.pdf>
 
+Deep neural networks to correct sub-precision errors in CFD , 
+PDF: <https://arxiv.org/abs/2202.04233>
+
 Deep learning fluid flow reconstruction around arbitrary two-dimensional objects from sparse sensors using conformal mappings , 
 PDF: <https://arxiv.org/pdf/2202.03798.pdf>
 
@@ -712,17 +715,22 @@ PDF: <https://arxiv.org/pdf/1905.11075>
 
 ## Simulation and Deep Learning Frameworks
 
-phiflow: <https://github.com/tum-pbs/phiflow>
+PhiFlow: <https://github.com/tum-pbs/phiflow>
 
-diff-taichi: <https://github.com/yuanming-hu/difftaichi>
+Diff-Taichi: <https://github.com/yuanming-hu/difftaichi>
 
-jax-md: <https://github.com/google/jax-md>
+Jax-Md: <https://github.com/google/jax-md>
 
-tensorFlowFoam: <https://github.com/argonne-lcf/TensorFlowFoam>
+TensorFlow-Foam: <https://github.com/argonne-lcf/TensorFlowFoam>
 
-julia-sciml: <https://sciml.ai>
+Julia-Sciml: <https://sciml.ai>
 
-gradsim: <https://gradsim.github.io>
+GradSim: <https://gradsim.github.io>
+
+Jax-Cfd: <https://github.com/google/jax-cfd>
+
+Jax-Fluids: <https://github.com/tumaer/JAXFLUIDS>
+
 
 
 # Concluding Remarks
