@@ -55,7 +55,10 @@ learning in general.
 ## I15 Physics-based Deep Learning Links
 
 Turbulent Flow Simulation using Autoregressive Conditional Diffusion Models , 
-PDF: <https://arxiv.org/pdf/2309.01745> 
+Project: <https://github.com/tum-pbs/autoreg-pde-diffusion>
+
+Physics-Preserving AI-Accelerated Simulations of Plasma Turbulence , 
+PDF: <https://arxiv.org/pdf/2309.16400>>
 
 Unsteady Cylinder Wakes from Arbitrary Bodies with Differentiable Physics-Assisted Neural Network , 
 PDF: <https://arxiv.org/pdf/2308.04296>
