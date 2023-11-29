@@ -387,6 +387,7 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 ![Image divider for general PDE section](resources/learning-similarity-metrics-divider.jpeg)
 
 
+
 ## Additional Links for General PDEs
 
 Machine Learning for Partial Differential Equations , 
@@ -495,7 +496,11 @@ Learning Deep Neural Network Representations for Koopman Operators of Nonlinear 
 PDF: <https://arxiv.org/pdf/1708.06850>
 
 
+
 ## Additional Links for Other Physics Problems and Physics-related Problems
+
+Neural General Circulation Models , 
+PDF: <https://arxiv.org/abs/2311.07222>
 
 A neural-preconditioned poisson solver for mixed dirichlet and neumann boundary conditions ,
 PDF: <https://arxiv.org/pdf/2310.00177.pdf>
