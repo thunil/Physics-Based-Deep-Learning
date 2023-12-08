@@ -61,19 +61,19 @@ Physics-Preserving AI-Accelerated Simulations of Plasma Turbulence ,
 PDF: <https://arxiv.org/pdf/2309.16400>>
 
 Unsteady Cylinder Wakes from Arbitrary Bodies with Differentiable Physics-Assisted Neural Network , 
-PDF: <https://arxiv.org/pdf/2308.04296>
+Project: <https://github.com/tum-pbs/DiffPhys-CylinderWakeFlow/>
 
 Score Matching via Differentiable Physics , 
-PDF: <https://arxiv.org/pdf/2301.10250>
+Project: <https://github.com/tum-pbs/SMDP> 
 
 Guaranteed Conservation of Momentum for Learning Particle-based Fluid Dynamics , 
 Project: <https://github.com/tum-pbs/DMCF>
 
 Learned Turbulence Modelling with Differentiable Fluid Solvers , 
-PDF: <https://arxiv.org/pdf/2202.06988>
+Project: <https://github.com/tum-pbs/differentiable-piso> 
 
 Half-Inverse Gradients for Physical Deep Learning , 
-PDF: <https://arxiv.org/pdf/2203.10131>
+Project: <https://github.com/tum-pbs/half-inverse-gradients> 
 
 Reviving Autoencoder Pretraining (Previously: Data-driven Regularization via Racecar Training for Generalizing Neural Networks), 
 Project: <https://github.com/tum-pbs/racecar>
@@ -82,13 +82,13 @@ Realistic galaxy images and improved robustness in machine learning tasks from g
 PDF: <https://arxiv.org/pdf/2203.11956>
 
 Hybrid Neural Network PDE Solvers for Reacting Flows , 
-PDF: <https://arxiv.org/pdf/2111.11185>
+Project: <https://github.com/tum-pbs/Hybrid-Solver-for-Reactive-Flows> 
 
 Scale-invariant Learning by Physics Inversion (formerly "Physical Gradients") ,
 Project: <https://github.com/tum-pbs/SIP>
 
 High-accuracy transonic RANS Flow Predictions with Deep Neural Networks ,
-PDF: <https://arxiv.org/pdf/2109.02183>
+Project: <https://github.com/tum-pbs/coord-trans-encoding> 
 
 Learning Meaningful Controls for Fluids ,
 Project: <https://rachelcmy.github.io/den2vel/>
