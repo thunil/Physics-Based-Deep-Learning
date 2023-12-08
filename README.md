@@ -511,6 +511,9 @@ PDF: <https://arxiv.org/pdf/2307.08142.pdf>
 Stabilized Neural Differential Equations for Learning Constrained Dynamics , 
 PDF: <https://arxiv.org/pdf/2306.09739>
 
+PDEBench: An Extensive Benchmark for Scientific Machine Learning , 
+Project: <https://github.com/pdebench/PDEBench>
+
 Efficient Learning of Mesh-Based Physical Simulation with Bi-Stride Multi-Scale Graph Neural Network , 
 PDF: <https://arxiv.org/pdf/2210.02573.pdf>
 
