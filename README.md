@@ -153,6 +153,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Inferring Hybrid Neural Fluid Fields from Videos , 
+PDF: <https://openreview.net/pdf?id=kRdaTkaBwC> 
+
 LagrangeBench: A Lagrangian Fluid Mechanics Benchmarking Suite , 
 Project: <https://github.com/tumaer/lagrangebench>
 
