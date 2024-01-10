@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Uncertainty-aware Surrogate Models for Airfoil Flow Simulations with Denoising Diffusion Probabilistic Models , 
+Project: <https://github.com/tum-pbs/Diffusion-based-Flow-Prediction>
+
 Turbulent Flow Simulation using Autoregressive Conditional Diffusion Models , 
 Project: <https://github.com/tum-pbs/autoreg-pde-diffusion>
 
@@ -61,7 +64,7 @@ Physics-Preserving AI-Accelerated Simulations of Plasma Turbulence ,
 PDF: <https://arxiv.org/pdf/2309.16400>>
 
 Unsteady Cylinder Wakes from Arbitrary Bodies with Differentiable Physics-Assisted Neural Network , 
-Project: <https://github.com/tum-pbs/DiffPhys-CylinderWakeFlow/>
+Project: <https://github.com/tum-pbs/DiffPhys-CylinderWakeFlow>
 
 Score Matching via Differentiable Physics , 
 Project: <https://github.com/tum-pbs/SMDP> 
@@ -94,7 +97,7 @@ Learning Meaningful Controls for Fluids ,
 Project: <https://rachelcmy.github.io/den2vel/>
 
 Global Transport for Fluid Reconstruction with Learned Self-Supervision ,
-Project: <https://ge.in.tum.de/publications/2021-franz-globtrans/>
+Project: <https://ge.in.tum.de/publications/2021-franz-globtrans>
 
 Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers , 
 Project: <https://github.com/tum-pbs/Solver-in-the-Loop>
@@ -106,16 +109,16 @@ Purely data-driven medium-range weather forecasting achieves comparable skill to
 PDF: <https://arxiv.org/pdf/2008.08626>
 
 Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow , 
-Project: <https://ge.in.tum.de/publications/2020-lssubdiv-wiewel/>
+Project: <https://ge.in.tum.de/publications/2020-lssubdiv-wiewel>
 
 WeatherBench: A benchmark dataset for data-driven weather forecasting , 
 Project: <https://github.com/pangeo-data/WeatherBench>
 
 Learning Similarity Metrics for Numerical Simulations (LSiM) ,
-Project: <https://ge.in.tum.de/publications/2020-lsim-kohl/>
+Project: <https://ge.in.tum.de/publications/2020-lsim-kohl>
 
 Learning to Control PDEs with Differentiable Physics , 
-Project: <https://ge.in.tum.de/publications/2020-iclr-holl/>
+Project: <https://ge.in.tum.de/publications/2020-iclr-holl>
 
 Lagrangian Fluid Simulation with Continuous Convolutions , 
 PDF: <https://openreview.net/forum?id=B1lDoJSYDH>
