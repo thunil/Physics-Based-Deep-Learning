@@ -505,6 +505,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Optimal Power Flow in Highly Renewable Power System Based on Attention Neural Networks ,
+PDF: <https://arxiv.org/abs/2311.13949>
+
 Neural General Circulation Models , 
 PDF: <https://arxiv.org/abs/2311.07222>
 
