@@ -396,6 +396,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Micro-Macro Consistency in Multiscale Modeling: Score-Based Model Assisted Sampling of Fast/Slow Dynamical Systems ,
+PDF: <https://arxiv.org/abs/2312.05715>
+
 Machine Learning for Partial Differential Equations , 
 PDF: <https://arxiv.org/pdf/2303.17078.pdf>
 
