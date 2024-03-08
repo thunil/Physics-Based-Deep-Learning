@@ -192,9 +192,6 @@ PDF: <https://arxiv.org/pdf/2304.04446>
 Multi-scale rotation-equivariant graph neural networks for unsteady Eulerian fluid dynamics , 
 WWW: <https://aip.scitation.org/doi/10.1063/5.0097679>
 
-Physics-Embedded Neural Networks: Graph Neural PDE Solvers with Mixed Boundary Conditions , 
-PDF: <https://arxiv.org/pdf/2205.11912>
-
 AirfRANS: High Fidelity Computational Fluid Dynamics Dataset for Approximating Reynolds-Averaged Navier-Stokes Solutions , 
 PDF: <https://arxiv.org/pdf/2212.07564>
 
@@ -213,8 +210,14 @@ Project: <https://github.com/syguan96/NeuroFluid>
 Lagrangian Large Eddy Simulations via Physics Informed Machine Learning , 
 PDF: <https://arxiv.org/pdf/2207.04012>
 
+Learning to Estimate and Refine Fluid Motion with Physical Dynamics , 
+PDF: <https://arxiv.org/pdf/2206.10480.pdf>
+
 Deep Reinforcement Learning for Turbulence Modeling in Large Eddy Simulations ,
 PDF: <https://arxiv.org/pdf/2206.11038>
+
+Physics-Embedded Neural Networks: Graph Neural PDE Solvers with Mixed Boundary Conditions , 
+PDF: <https://arxiv.org/pdf/2205.11912>
 
 Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data , 
 Project: <https://rachelcmy.github.io/pinf_smoke/>
