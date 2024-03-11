@@ -54,6 +54,12 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Stabilizing Backpropagation Through Time to Learn Complex Physics , 
+PDF: <https://openreview.net/forum?id=bozbTTWcaw>
+
+Symmetric Basis Convolutions for Learning Lagrangian Fluid Mechanics , 
+PDF: <https://openreview.net/forum?id=HKgRwNhI9R> 
+
 Uncertainty-aware Surrogate Models for Airfoil Flow Simulations with Denoising Diffusion Probabilistic Models , 
 Project: <https://github.com/tum-pbs/Diffusion-based-Flow-Prediction>
 
