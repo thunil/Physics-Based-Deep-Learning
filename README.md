@@ -517,6 +517,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Investigation of the generalization capability of a generative adversarial network for large eddy simulation of turbulent premixed reacting flows , 
+PDF: <https://www.sciencedirect.com/science/article/pii/S1540748922002851>
+
 Optimal Power Flow in Highly Renewable Power System Based on Attention Neural Networks ,
 PDF: <https://arxiv.org/abs/2311.13949>
 
