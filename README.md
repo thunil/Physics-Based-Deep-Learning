@@ -235,7 +235,7 @@ NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields
 PDF: <https://arxiv.org/pdf/2203.01762.pdf>
 
 Deep neural networks to correct sub-precision errors in CFD , 
-PDF: <https://arxiv.org/abs/2202.04233>
+PDF: <https://arxiv.org/pdf/2202.04233>
 
 Deep learning fluid flow reconstruction around arbitrary two-dimensional objects from sparse sensors using conformal mappings , 
 PDF: <https://arxiv.org/pdf/2202.03798.pdf>
@@ -406,7 +406,7 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 ## Additional Links for General PDEs
 
 Micro-Macro Consistency in Multiscale Modeling: Score-Based Model Assisted Sampling of Fast/Slow Dynamical Systems ,
-PDF: <https://arxiv.org/abs/2312.05715>
+PDF: <https://arxiv.org/pdf/2312.05715>
 
 Machine Learning for Partial Differential Equations , 
 PDF: <https://arxiv.org/pdf/2303.17078.pdf>
@@ -517,14 +517,17 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs , 
+PDF: <https://arxiv.org/pdf/2403.12553>
+
 Investigation of the generalization capability of a generative adversarial network for large eddy simulation of turbulent premixed reacting flows , 
 PDF: <https://www.sciencedirect.com/science/article/pii/S1540748922002851>
 
 Optimal Power Flow in Highly Renewable Power System Based on Attention Neural Networks ,
-PDF: <https://arxiv.org/abs/2311.13949>
+PDF: <https://arxiv.org/pdf/2311.13949>
 
 Neural General Circulation Models , 
-PDF: <https://arxiv.org/abs/2311.07222>
+PDF: <https://arxiv.org/pdf/2311.07222>
 
 A neural-preconditioned poisson solver for mixed dirichlet and neumann boundary conditions ,
 PDF: <https://arxiv.org/pdf/2310.00177.pdf>
