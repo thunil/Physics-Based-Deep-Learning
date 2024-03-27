@@ -517,6 +517,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+ClimODE: Climate Forecasting With Physics-informed Neural ODEs ,
+PDF: <https://openreview.net/pdf?id=xuY33XhEGR>
+
 Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs , 
 PDF: <https://arxiv.org/pdf/2403.12553>
 
