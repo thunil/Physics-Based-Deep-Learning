@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+How Temporal Unrolling Supports Neural Physics Simulators , 
+PDF: <https://arxiv.org/pdf/2402.12971>
+
 Stabilizing Backpropagation Through Time to Learn Complex Physics , 
 PDF: <https://openreview.net/forum?id=bozbTTWcaw>
 
