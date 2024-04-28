@@ -523,6 +523,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Hybrid Modeling Design Patterns , 
+PDF: <https://arxiv.org/pdf/2401.00033>
+
 ClimODE: Climate Forecasting With Physics-informed Neural ODEs ,
 PDF: <https://openreview.net/pdf?id=xuY33XhEGR>
 
