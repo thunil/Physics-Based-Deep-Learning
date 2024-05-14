@@ -429,6 +429,9 @@ PDF: <https://arxiv.org/pdf/2302.11101.pdf>
 Evolve Smoothly, Fit Consistently: Learning Smooth Latent Dynamics For Advection-Dominated Systems ,
 PDF: <https://arxiv.org/pdf/2301.10391>
 
+Continuous PDE dynamics forecasting with implicit neural representations , 
+PDF: <https://arxiv.org/pdf/2209.14855>
+
 Discovery of partial differential equations from highly noisy and sparse data with physics-informed information criterion , 
 PDF: <https://arxiv.org/pdf/2208.03322>
 
