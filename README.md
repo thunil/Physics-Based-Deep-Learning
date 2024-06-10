@@ -330,6 +330,9 @@ PDF: <https://proceedings.icml.cc/static/paper_files/icml/2020/6414-Paper.pdf>
 CFDNet: A deep learning-based accelerator for fluid simulations , 
 PDF: <https://arxiv.org/pdf/2005.04485>
 
+The neural particle method--an updated Lagrangian physics informed neural network for computational fluid dynamics , 
+PDF: <https://arxiv.org/pdf/2003.10208>
+
 Controlling Rayleigh-Benard convection via Reinforcement Learning , 
 PDF: <https://arxiv.org/pdf/2003.14358>
 
