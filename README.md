@@ -532,6 +532,10 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+
+Physics-Aware Neural Implicit Solvers for multiscale, parametric PDEs with applications in heterogeneous media ,   
+PDF: <https://arxiv.org/abs/2405.19019>
+
 Hybrid Modeling Design Patterns , 
 PDF: <https://arxiv.org/pdf/2401.00033>
 
