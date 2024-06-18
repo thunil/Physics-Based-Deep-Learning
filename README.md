@@ -689,6 +689,9 @@ PDF: <https://arxiv.org/pdf/1905.10706>
 DiffTaichi: Differentiable Programming for Physical Simulation , 
 PDF: <https://arxiv.org/pdf/1910.00935>
 
+Physics-Constrained Deep Learning for High-dimensional Surrogate Modeling and Uncertainty Quantification without Labeled Data , 
+PDF: <https://arxiv.org/abs/1901.06314>
+
 COPHY: Counterfactual Learning of Physical Dynamics , 
 Project: <https://github.com/fabienbaradel/cophy>
 
