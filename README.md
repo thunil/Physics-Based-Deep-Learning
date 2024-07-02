@@ -532,6 +532,8 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+UM2N: Towards Universal Mesh Movement Networks , 
+PDF: <https://arxiv.org/abs/2407.00382>
 
 Physics-Aware Neural Implicit Solvers for multiscale, parametric PDEs with applications in heterogeneous media ,   
 PDF: <https://arxiv.org/abs/2405.19019>
