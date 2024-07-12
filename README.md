@@ -565,20 +565,23 @@ PDF: <https://arxiv.org/pdf/2307.08142.pdf>
 Stabilized Neural Differential Equations for Learning Constrained Dynamics , 
 PDF: <https://arxiv.org/pdf/2306.09739>
 
+Combining Slow and Fast: Complementary Filtering for Dynamics Learning , 
+PDF: <https://arxiv.org/pdf/2302.13754.pdf>
+
 PDEBench: An Extensive Benchmark for Scientific Machine Learning , 
 Project: <https://github.com/pdebench/PDEBench>
 
 Efficient Learning of Mesh-Based Physical Simulation with Bi-Stride Multi-Scale Graph Neural Network , 
 PDF: <https://arxiv.org/pdf/2210.02573.pdf>
 
-Combining Slow and Fast: Complementary Filtering for Dynamics Learning , 
-PDF: <https://arxiv.org/pdf/2302.13754.pdf>
-
 Scalable Bayesian Uncertainty Quantification for Neural Network Potentials: Promise and Pitfalls ,
 PDF: <https://arxiv.org/pdf/2212.07959>
 
 Breaking Bad: A Dataset for Geometric Fracture and Reassembly , 
 Project: <https://arxiv.org/pdf/2210.11463>
+
+Probabilistic forecasts of extreme heatwaves using convolutional neural networks in a regime of lack of data , 
+PDF: <https://arxiv.org/abs/2208.00971>
 
 Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs , 
 PDF: <https://arxiv.org/pdf/2206.11990>
