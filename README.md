@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Phiflow: Differentiable Simulations for PyTorch, TensorFlow and Jax ,
+PDF: <https://openreview.net/pdf/36503358a4f388f00d587a0257c13ba2a4656098.pdf>>
+
 How Temporal Unrolling Supports Neural Physics Simulators , 
 PDF: <https://arxiv.org/pdf/2402.12971>
 
