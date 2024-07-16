@@ -532,6 +532,9 @@ PDF: <https://arxiv.org/pdf/1708.06850>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations , 
+Project: <https://jhagnberger.github.io/vectorized-conditional-neural-field/>
+
 UM2N: Towards Universal Mesh Movement Networks , 
 PDF: <https://arxiv.org/abs/2407.00382>
 
