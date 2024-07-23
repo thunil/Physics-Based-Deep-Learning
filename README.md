@@ -531,6 +531,8 @@ Project+Code: <https://github.com/ZichaoLong/PDE-Net>
 Learning Deep Neural Network Representations for Koopman Operators of Nonlinear Dynamical Systems , 
 PDF: <https://arxiv.org/pdf/1708.06850>
 
+Neural-network-based approximations for solving partial differential equations , 
+DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
