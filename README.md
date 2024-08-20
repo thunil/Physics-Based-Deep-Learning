@@ -54,8 +54,11 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+The Unreasonable Effectiveness of Solving Inverse Problems with Neural Networks ,
+PDF: <http://arxiv.org/abs/2408.08119> 
+
 Phiflow: Differentiable Simulations for PyTorch, TensorFlow and Jax ,
-PDF: <https://openreview.net/pdf/36503358a4f388f00d587a0257c13ba2a4656098.pdf>>
+PDF: <https://openreview.net/pdf/36503358a4f388f00d587a0257c13ba2a4656098.pdf>
 
 How Temporal Unrolling Supports Neural Physics Simulators , 
 PDF: <https://arxiv.org/pdf/2402.12971>
@@ -537,6 +540,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Physics-embedded Fourier Neural Network for Partial Differential Equations ,  
+PDF: <https://arxiv.org/abs/2407.11158>
+
 Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations , 
 Project: <https://jhagnberger.github.io/vectorized-conditional-neural-field/>
 
@@ -547,7 +553,7 @@ Physics-Aware Neural Implicit Solvers for multiscale, parametric PDEs with appli
 PDF: <https://arxiv.org/abs/2405.19019>
 
 Hybrid Modeling Design Patterns , 
-PDF: <https://arxiv.org/pdf/2401.00033>
+PDF: <https://arxiv.org/abs/2401.00033>
 
 ClimODE: Climate Forecasting With Physics-informed Neural ODEs ,
 PDF: <https://openreview.net/pdf?id=xuY33XhEGR>
