@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+ConFIG: Towards Conflict-free Training of Physics Informed Neural Networks , 
+Project: <https://tum-pbs.github.io/ConFIG/>
+
 The Unreasonable Effectiveness of Solving Inverse Problems with Neural Networks ,
 PDF: <http://arxiv.org/abs/2408.08119> 
 
