@@ -420,6 +420,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Zero-shot forecasting of chaotic systems , 
+PDF: <https://arxiv.org/abs/2409.15771>
+
 Generative Learning for Forecasting the Dynamics of Complex Systems , 
 PDF: <https://arxiv.org/pdf/2402.17157>
 
