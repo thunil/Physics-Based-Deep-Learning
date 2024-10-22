@@ -546,6 +546,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Accelerating Legacy Numerical Solvers by Non-intrusive Gradient-based Meta-solving , 
+PDF: <https://arxiv.org/abs/2405.02952>
+
 Physics-embedded Fourier Neural Network for Partial Differential Equations ,  
 PDF: <https://arxiv.org/abs/2407.11158>
 
