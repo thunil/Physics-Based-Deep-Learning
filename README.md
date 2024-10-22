@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Deep learning-based predictive modelling of transonic flow over an aerofoil , 
+PDF: <https://arxiv.org/abs/2403.17131>
+
 ConFIG: Towards Conflict-free Training of Physics Informed Neural Networks , 
 Project: <https://tum-pbs.github.io/ConFIG/>
 
