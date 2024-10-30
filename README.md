@@ -177,6 +177,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+DeepLag: Discovering Deep Lagrangian Dynamics for Intuitive Fluid Prediction ,
+PDF: <https://arxiv.org/abs/2402.02425>
+
 Inferring Hybrid Neural Fluid Fields from Videos , 
 PDF: <https://openreview.net/pdf?id=kRdaTkaBwC> 
 
