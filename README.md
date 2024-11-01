@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Flow Matching for Posterior Inference with Simulator Feedback , 
+PDF: <https://arxiv.org/abs/2410.22573>
+
 Deep learning-based predictive modelling of transonic flow over an aerofoil , 
 PDF: <https://arxiv.org/abs/2403.17131>
 
