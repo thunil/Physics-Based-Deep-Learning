@@ -55,16 +55,19 @@ learning in general.
 ## I15 Physics-based Deep Learning Links
 
 Flow Matching for Posterior Inference with Simulator Feedback , 
-PDF: <https://arxiv.org/abs/2410.22573>
+PDF: <https://arxiv.org/pdf/2410.22573>
+
+APEBench: A Benchmark for Autoregressive Neural Emulators of PDEs , 
+PDF: <http://arxiv.org/pdf/2411.00180>
 
 Deep learning-based predictive modelling of transonic flow over an aerofoil , 
-PDF: <https://arxiv.org/abs/2403.17131>
+PDF: <https://arxiv.org/pdf/2403.17131>
 
 ConFIG: Towards Conflict-free Training of Physics Informed Neural Networks , 
 Project: <https://tum-pbs.github.io/ConFIG/>
 
 The Unreasonable Effectiveness of Solving Inverse Problems with Neural Networks ,
-PDF: <http://arxiv.org/abs/2408.08119> 
+PDF: <http://arxiv.org/pdf/2408.08119> 
 
 Phiflow: Differentiable Simulations for PyTorch, TensorFlow and Jax ,
 PDF: <https://openreview.net/pdf/36503358a4f388f00d587a0257c13ba2a4656098.pdf>
@@ -181,7 +184,7 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 ## Additional Links for Fluids
 
 DeepLag: Discovering Deep Lagrangian Dynamics for Intuitive Fluid Prediction ,
-PDF: <https://arxiv.org/abs/2402.02425>
+PDF: <https://arxiv.org/pdf/2402.02425>
 
 Inferring Hybrid Neural Fluid Fields from Videos , 
 PDF: <https://openreview.net/pdf?id=kRdaTkaBwC> 
@@ -430,7 +433,7 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 ## Additional Links for General PDEs
 
 Zero-shot forecasting of chaotic systems , 
-PDF: <https://arxiv.org/abs/2409.15771>
+PDF: <https://arxiv.org/pdf/2409.15771>
 
 Generative Learning for Forecasting the Dynamics of Complex Systems , 
 PDF: <https://arxiv.org/pdf/2402.17157>
@@ -556,22 +559,22 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
 Accelerating Legacy Numerical Solvers by Non-intrusive Gradient-based Meta-solving , 
-PDF: <https://arxiv.org/abs/2405.02952>
+PDF: <https://arxiv.org/pdf/2405.02952>
 
 Physics-embedded Fourier Neural Network for Partial Differential Equations ,  
-PDF: <https://arxiv.org/abs/2407.11158>
+PDF: <https://arxiv.org/pdf/2407.11158>
 
 Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations , 
 Project: <https://jhagnberger.github.io/vectorized-conditional-neural-field/>
 
 UM2N: Towards Universal Mesh Movement Networks , 
-PDF: <https://arxiv.org/abs/2407.00382>
+PDF: <https://arxiv.org/pdf/2407.00382>
 
 Physics-Aware Neural Implicit Solvers for multiscale, parametric PDEs with applications in heterogeneous media ,   
-PDF: <https://arxiv.org/abs/2405.19019>
+PDF: <https://arxiv.org/pdf/2405.19019>
 
 Hybrid Modeling Design Patterns , 
-PDF: <https://arxiv.org/abs/2401.00033>
+PDF: <https://arxiv.org/pdf/2401.00033>
 
 ClimODE: Climate Forecasting With Physics-informed Neural ODEs ,
 PDF: <https://openreview.net/pdf?id=xuY33XhEGR>
@@ -613,7 +616,7 @@ Breaking Bad: A Dataset for Geometric Fracture and Reassembly ,
 Project: <https://arxiv.org/pdf/2210.11463>
 
 Probabilistic forecasts of extreme heatwaves using convolutional neural networks in a regime of lack of data , 
-PDF: <https://arxiv.org/abs/2208.00971>
+PDF: <https://arxiv.org/pdf/2208.00971>
 
 Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs , 
 PDF: <https://arxiv.org/pdf/2206.11990>
@@ -727,7 +730,7 @@ DiffTaichi: Differentiable Programming for Physical Simulation ,
 PDF: <https://arxiv.org/pdf/1910.00935>
 
 Physics-Constrained Deep Learning for High-dimensional Surrogate Modeling and Uncertainty Quantification without Labeled Data , 
-PDF: <https://arxiv.org/abs/1901.06314>
+PDF: <https://arxiv.org/pdf/1901.06314>
 
 COPHY: Counterfactual Learning of Physical Dynamics , 
 Project: <https://github.com/fabienbaradel/cophy>
