@@ -432,6 +432,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+Differentiable programming across the PDE and Machine Learning barrier , 
+PDF: <https://arxiv.org/abs/2409.06085>
+
 Zero-shot forecasting of chaotic systems , 
 PDF: <https://arxiv.org/pdf/2409.15771>
 
