@@ -561,6 +561,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Advancing Generalization in PINNs through Latent-Space Representations , 
+PDF: <https://arxiv.org/pdf/2411.19125>
+
 Accelerating Legacy Numerical Solvers by Non-intrusive Gradient-based Meta-solving , 
 PDF: <https://arxiv.org/pdf/2405.02952>
 
