@@ -567,11 +567,14 @@ PDF: <https://arxiv.org/pdf/2411.19125>
 Text2PDE: Latent Diffusion Models for Accessible Physics Simulation , 
 PDF: <https://arxiv.org/abs/2410.01137> 
 
-Accelerating Legacy Numerical Solvers by Non-intrusive Gradient-based Meta-solving , 
-PDF: <https://arxiv.org/pdf/2405.02952>
+Active Learning for Neural PDE Solvers , 
+PDF: <https://arxiv.org/pdf/2408.01536>
 
 Physics-embedded Fourier Neural Network for Partial Differential Equations ,  
 PDF: <https://arxiv.org/pdf/2407.11158>
+
+Accelerating Legacy Numerical Solvers by Non-intrusive Gradient-based Meta-solving , 
+PDF: <https://arxiv.org/pdf/2405.02952>
 
 Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations , 
 Project: <https://jhagnberger.github.io/vectorized-conditional-neural-field/>
