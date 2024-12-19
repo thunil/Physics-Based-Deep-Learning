@@ -183,6 +183,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model , 
+PDF: <https://arxiv.org/abs/2412.13897>
+
 DeepLag: Discovering Deep Lagrangian Dynamics for Intuitive Fluid Prediction ,
 PDF: <https://arxiv.org/pdf/2402.02425>
 
