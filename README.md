@@ -183,6 +183,9 @@ Project: <https://ge.in.tum.de/publications/2017-prantl-defonn/>
 
 ## Additional Links for Fluids
 
+Discretize first, filter next: Learning divergence-consistent closure models for large-eddy simulation , 
+PDF: <https://doi.org/10.1016/j.jcp.2024.113577>
+
 Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model , 
 PDF: <https://arxiv.org/abs/2412.13897>
 
