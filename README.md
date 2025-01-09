@@ -567,6 +567,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+HypeRL: Parameter-Informed Reinforcement Learning for Parametric PDEs , 
+PDF: <https://arxiv.org/abs/2501.04538> 
+
 Advancing Generalization in PINNs through Latent-Space Representations , 
 PDF: <https://arxiv.org/pdf/2411.19125>
 
