@@ -567,6 +567,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+PINN-FEM: A Hybrid Approach for Enforcing Dirichlet Boundary Conditions in Physics-Informed Neural Networks ,  
+PDF: <https://arxiv.org/abs/2501.07765>
+
 HypeRL: Parameter-Informed Reinforcement Learning for Parametric PDEs , 
 PDF: <https://arxiv.org/abs/2501.04538> 
 
