@@ -567,6 +567,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+A Multimodal PDE Foundation Model for Prediction and Scientific Text Descriptions , 
+PDF: <https://www.arxiv.org/abs/2502.06026>
+
 PINN-FEM: A Hybrid Approach for Enforcing Dirichlet Boundary Conditions in Physics-Informed Neural Networks ,  
 PDF: <https://arxiv.org/abs/2501.07765>
 
