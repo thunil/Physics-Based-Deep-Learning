@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks , 
+Project: <https://github.com/tum-pbs/dgn4cfd>
+
 Flow Matching for Posterior Inference with Simulator Feedback , 
 PDF: <https://arxiv.org/pdf/2410.22573>
 
