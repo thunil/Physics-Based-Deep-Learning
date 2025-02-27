@@ -57,11 +57,14 @@ learning in general.
 Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks , 
 Project: <https://github.com/tum-pbs/dgn4cfd>
 
+Progressively Refined Differentiable Physics , 
+PDF: <https://openreview.net/forum?id=9Fh0z1JmPU>
+
 Flow Matching for Posterior Inference with Simulator Feedback , 
 PDF: <https://arxiv.org/pdf/2410.22573>
 
 APEBench: A Benchmark for Autoregressive Neural Emulators of PDEs , 
-PDF: <http://arxiv.org/pdf/2411.00180>
+Project: <https://github.com/tum-pbs/apebench-paper>
 
 Deep learning-based predictive modelling of transonic flow over an aerofoil , 
 PDF: <https://arxiv.org/pdf/2403.17131>
