@@ -57,7 +57,10 @@ learning in general.
 Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks , 
 Project: <https://github.com/tum-pbs/dgn4cfd>
 
-Progressively Refined Differentiable Physics , 
+Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster , 
+PDF: <https://openreview.net/forum?id=j3bKnEidtT>
+
+PRDP: Progressively Refined Differentiable Physics , 
 PDF: <https://openreview.net/forum?id=9Fh0z1JmPU>
 
 Flow Matching for Posterior Inference with Simulator Feedback , 
