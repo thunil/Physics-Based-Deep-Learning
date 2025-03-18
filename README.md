@@ -60,8 +60,11 @@ Project: <https://github.com/tum-pbs/dgn4cfd>
 Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster , 
 PDF: <https://openreview.net/forum?id=j3bKnEidtT>
 
+Truncation Is All You Need: Improved Sampling Of Diffusion Models For Physics-Based Simulations , 
+PDF: <https://openreview.net/forum?id=0FbzC7B9xI>
+
 PRDP: Progressively Refined Differentiable Physics , 
-PDF: <https://openreview.net/forum?id=9Fh0z1JmPU>
+Project: <https://github.com/tum-pbs/PRDP>
 
 Flow Matching for Posterior Inference with Simulator Feedback , 
 PDF: <https://arxiv.org/pdf/2410.22573>
