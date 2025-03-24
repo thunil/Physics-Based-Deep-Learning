@@ -66,6 +66,9 @@ PDF: <https://openreview.net/forum?id=0FbzC7B9xI>
 PRDP: Progressively Refined Differentiable Physics , 
 Project: <https://github.com/tum-pbs/PRDP>
 
+Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster , 
+PDF: <https://openreview.net/forum?id=j3bKnEidtT>
+
 Flow Matching for Posterior Inference with Simulator Feedback , 
 PDF: <https://arxiv.org/pdf/2410.22573>
 
