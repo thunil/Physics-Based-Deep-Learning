@@ -582,6 +582,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Implicit Neural Differential Model for Spatiotemporal Dynamics , 
+PDF: <https://arxiv.org/abs/2504.02260>
+
 A Multimodal PDE Foundation Model for Prediction and Scientific Text Descriptions , 
 PDF: <https://www.arxiv.org/abs/2502.06026>
 
