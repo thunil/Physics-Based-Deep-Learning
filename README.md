@@ -582,6 +582,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers , 
+PDF: <https://arxiv.org/abs/2505.14595>
+
 Learning a Neural Solver for Parametric PDEs to Enhance Physics-Informed Methods , 
 Project: <https://github.com/2ailesB/neural-parametric-solver>
 
