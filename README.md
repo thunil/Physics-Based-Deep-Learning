@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+PICT - A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics , 
+PDF: <https://arxiv.org/pdf/2505.16992>
+
 Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks , 
 Project: <https://github.com/tum-pbs/dgn4cfd>
 
