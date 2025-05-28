@@ -585,6 +585,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+CALM-PDE: Continuous and Adaptive Convolutions for Latent Space Modeling of Time-dependent PDEs , 
+PDF: <https://arxiv.org/abs/2505.12944>
+
 Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers , 
 PDF: <https://arxiv.org/abs/2505.14595>
 
