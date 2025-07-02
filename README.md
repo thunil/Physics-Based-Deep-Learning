@@ -55,7 +55,7 @@ learning in general.
 ## I15 Physics-based Deep Learning Links
 
 PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations , 
-Project: <https://github.com/tum-pbs/pde-transformer>
+Project: <https://tum-pbs.github.io/pde-transformer/landing.html>
 
 PICT - A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics , 
 PDF: <https://arxiv.org/pdf/2505.16992>
@@ -632,6 +632,9 @@ PDF: <https://arxiv.org/pdf/2407.00382>
 
 Physics-Aware Neural Implicit Solvers for multiscale, parametric PDEs with applications in heterogeneous media ,   
 PDF: <https://arxiv.org/pdf/2405.19019>
+
+Universal Physics Transformers: A Framework For Efficiently Scaling Neural Operators , 
+PDF: <https://arxiv.org/html/2402.12365>
 
 Hybrid Modeling Design Patterns , 
 PDF: <https://arxiv.org/pdf/2401.00033>
