@@ -57,8 +57,14 @@ learning in general.
 PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations , 
 Project: <https://tum-pbs.github.io/pde-transformer/landing.html>
 
+Flow Matching Meets PDEs – A Unified Framework for Physics-Constrained Generation , 
+PDF: <https://arxiv.org/abs/2506.08604>
+
+Component-Based Machine Learning for Indoor Flow and Temperature Fields Prediction Latent Feature Aggregation and Flow Interaction , 
+PDF: <https://arxiv.org/abs/2507.19233>
+
 PICT - A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics , 
-PDF: <https://arxiv.org/pdf/2505.16992>
+Project: <https://github.com/tum-pbs/PICT>
 
 Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks , 
 Project: <https://github.com/tum-pbs/dgn4cfd>
