@@ -54,6 +54,9 @@ learning in general.
 
 ## I15 Physics-based Deep Learning Links
 
+diffSPH: Differentiable Smoothed Particle Hydrodynamics for Adjoint Optimization and Machine Learning , 
+Project: <https://github.com/tum-pbs/diffSPH>
+
 PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations , 
 Project: <https://tum-pbs.github.io/pde-transformer/landing.html>
 
