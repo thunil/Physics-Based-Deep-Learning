@@ -468,6 +468,9 @@ PDF: <https://www.labxing.com/files/lab_publications/2259-1524535041-QiPuSd6O.pd
 
 ## Additional Links for General PDEs
 
+AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing , 
+PDF: <https://arxiv.org/abs/2602.17607>
+
 Differentiable programming across the PDE and Machine Learning barrier , 
 PDF: <https://arxiv.org/abs/2409.06085>
 
